@@ -1,0 +1,11 @@
+.iosToggle{
+    float: right;
+}
+
+.hideToggle{
+    display: none;
+}
+.list{
+    line-height: 30px;
+    border-radius: 0px !important;
+}

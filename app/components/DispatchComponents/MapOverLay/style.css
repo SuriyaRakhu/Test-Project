@@ -1,0 +1,11 @@
+.bottom {
+    -webkit-transform: translate3d(0, 100%, 0) !important; 
+    transform: translate3d(0, 100%, 0) !important;
+}
+.deliveryStatus{
+    margin-left: 45%;
+    width: 12%;
+}
+.textCenter{
+    text-align: center;
+}

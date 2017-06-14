@@ -1,0 +1,40 @@
+.route{
+    border: 1px solid #c5c5c5;
+    padding-top: 4px;
+}
+.edit{
+    float: right;
+}
+
+.routeNum{
+    float: left;
+}
+
+.alignCenter{
+    display: table;
+}
+.alignCenter div{
+    display: inline-block !important;
+}
+.header{
+    background-color: #387fca;
+    border-color: #387fca;
+    color: #FFF;
+}
+.summary{
+    /*margin-top: 6px;*/
+    margin-bottom: 10px;
+}
+.detail{
+    background-color: #fff;
+}
+.modified{
+    padding-right: 10px;
+}
+.editButn {
+    background-color: transparent !important;
+    color: white !important;
+    display: inline-block !important;
+    padding: 0 !important;
+    border: none !important;
+}

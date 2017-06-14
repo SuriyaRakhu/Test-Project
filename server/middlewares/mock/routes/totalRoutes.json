@@ -1,0 +1,5219 @@
+{
+	"message": null,
+	"rows": [{
+		"routeNo": "103A",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "10A",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "11A",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 2,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "12P",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "13P",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 4,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5501",
+		"stopPend": 15,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5502",
+		"stopPend": 14,
+		"driverName": "Lamb,Jay(10153091)",
+		"delay": "-60",
+		"status": "R",
+		"totalStops": 18,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "36.378718",
+		"xvlnlongitude": "-93.586676",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100861",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5503",
+		"stopPend": 17,
+		"driverName": "Jeremy Allen",
+		"delay": null,
+		"status": "S",
+		"totalStops": 17,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133682",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5504",
+		"stopPend": 15,
+		"driverName": "Williams,Tommy(10152631)",
+		"delay": "-28",
+		"status": "R",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "33.218739",
+		"xvlnlongitude": "-92.675358",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133683",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5505",
+		"stopPend": 2,
+		"driverName": "Simpson,Keith(10068444)",
+		"delay": "-19",
+		"status": "R",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.793412",
+		"xvlnlongitude": "-92.401171",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100094",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5506",
+		"stopPend": 15,
+		"driverName": "Carmical,Douglas(10068768",
+		"delay": "39",
+		"status": "R",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "33.519981",
+		"xvlnlongitude": "-91.444215",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "132517",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5507",
+		"stopPend": 13,
+		"driverName": "Jones,Arthur(10068993)",
+		"delay": "28",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "33.846977",
+		"xvlnlongitude": "-91.483508",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "132518",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5508",
+		"stopPend": 13,
+		"driverName": "Kendrick,Dustin(50000860)",
+		"delay": "-8",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.286938",
+		"xvlnlongitude": "-93.152483",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "135280",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5509",
+		"stopPend": 11,
+		"driverName": "Luster,Frank(10134707)",
+		"delay": "20",
+		"status": "D",
+		"totalStops": 13,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.281209",
+		"xvlnlongitude": "-93.129316",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": true,
+		"hasSwitchStops": true,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "135282",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": true
+	}, {
+		"routeNo": "5510",
+		"stopPend": 14,
+		"driverName": "Tibbs,Dustin(10138324)",
+		"delay": "-48",
+		"status": "R",
+		"totalStops": 18,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.586874",
+		"xvlnlongitude": "-94.218282",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "136407",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5511",
+		"stopPend": 12,
+		"driverName": "Shipman,Kevin(10133802)",
+		"delay": "-3",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.450683",
+		"xvlnlongitude": "-93.467023",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "136410",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5512",
+		"stopPend": 9,
+		"driverName": "Queary,Eddy(10141825)",
+		"delay": "-2",
+		"status": "R",
+		"totalStops": 12,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "36.108192",
+		"xvlnlongitude": "-94.131649",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "135320",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5513",
+		"stopPend": 9,
+		"driverName": "Korte,Nicholas(50007938)",
+		"delay": "-1",
+		"status": "R",
+		"totalStops": 10,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "36.309588",
+		"xvlnlongitude": "-94.184274",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "135318",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5514",
+		"stopPend": 13,
+		"driverName": "Wann,Mitchell(50013939)",
+		"delay": "-132",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.355863",
+		"xvlnlongitude": "-94.352970",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "136411",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5515",
+		"stopPend": 14,
+		"driverName": "Baker,Randal(10076819)",
+		"delay": "-23",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.382735",
+		"xvlnlongitude": "-94.329144",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129252",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5517",
+		"stopPend": 11,
+		"driverName": "Roetzel,Jerry(50000719)",
+		"delay": "-56",
+		"status": "R",
+		"totalStops": 12,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.086411",
+		"xvlnlongitude": "-92.458201",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133684",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5518",
+		"stopPend": 10,
+		"driverName": "Goggin,Michael(50039050)",
+		"delay": "-6",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.115723",
+		"xvlnlongitude": "-93.094586",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "132519",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5520",
+		"stopPend": 10,
+		"driverName": null,
+		"delay": "-455",
+		"status": "D",
+		"totalStops": 10,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": true,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": true
+	}, {
+		"routeNo": "5521",
+		"stopPend": 16,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5522",
+		"stopPend": 13,
+		"driverName": "Walters,Andrew(50047682)",
+		"delay": "26",
+		"status": "R",
+		"totalStops": 13,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "36.167081",
+		"xvlnlongitude": "-94.186925",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100135",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5523",
+		"stopPend": 6,
+		"driverName": "Santillan,Cesar(50047470)",
+		"delay": "21",
+		"status": "R",
+		"totalStops": 7,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "36.300974",
+		"xvlnlongitude": "-94.173894",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100081",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5524",
+		"stopPend": 13,
+		"driverName": "Cooper,Bobby(50048386)",
+		"delay": "-26",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.395350",
+		"xvlnlongitude": "-94.411488",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "136409",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5525",
+		"stopPend": 6,
+		"driverName": "Allison,Jacob(50065622)",
+		"delay": "-131",
+		"status": "R",
+		"totalStops": 8,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.375461",
+		"xvlnlongitude": "-94.418940",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129251",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5526",
+		"stopPend": 15,
+		"driverName": "Eddie Adams",
+		"delay": null,
+		"status": "S",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "106939",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5527",
+		"stopPend": 13,
+		"driverName": "McBay,Shane(50002015)",
+		"delay": "-41",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.557973",
+		"xvlnlongitude": "-92.452540",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "106938",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5529",
+		"stopPend": 14,
+		"driverName": "Bryant,Keith(10152636)",
+		"delay": "-65",
+		"status": "R",
+		"totalStops": 17,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "33.833016",
+		"xvlnlongitude": "-92.389527",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129310",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5530",
+		"stopPend": 14,
+		"driverName": "Allen,Antonio(50039446)",
+		"delay": "-22",
+		"status": "R",
+		"totalStops": 17,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.268986",
+		"xvlnlongitude": "-92.121437",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129311",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5531",
+		"stopPend": 13,
+		"driverName": "Bunn,Dontae(50043013)",
+		"delay": "-18",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.088620",
+		"xvlnlongitude": "-92.439359",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133686",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5532",
+		"stopPend": 13,
+		"driverName": "Ashford,Jonathan(50002027",
+		"delay": "-4",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.068010",
+		"xvlnlongitude": "-92.444321",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133685",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5533",
+		"stopPend": 10,
+		"driverName": "Cone,Jermaine(50003585)",
+		"delay": "-176",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.770028",
+		"xvlnlongitude": "-92.330104",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": true,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129700",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": true
+	}, {
+		"routeNo": "5534",
+		"stopPend": 16,
+		"driverName": "Bryant,Brad(10154789)",
+		"delay": "-5",
+		"status": "R",
+		"totalStops": 18,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.615100",
+		"xvlnlongitude": "-92.515881",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129962",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5535",
+		"stopPend": 12,
+		"driverName": "Ashlin,Justin(50016819)",
+		"delay": "-128",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.754992",
+		"xvlnlongitude": "-91.641463",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": true,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129308",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": true
+	}, {
+		"routeNo": "5536",
+		"stopPend": 11,
+		"driverName": "Horvath,John(10068443)",
+		"delay": "10",
+		"status": "R",
+		"totalStops": 13,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.152153",
+		"xvlnlongitude": "-93.102892",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "131662",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5537",
+		"stopPend": 15,
+		"driverName": "Vincent,Cheston(50060715)",
+		"delay": "17",
+		"status": "R",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.485706",
+		"xvlnlongitude": "-93.035308",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "131660",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5538",
+		"stopPend": 13,
+		"driverName": "Lindsey,James(10137643)",
+		"delay": "-90",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.468352",
+		"xvlnlongitude": "-93.066593",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "131663",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5541",
+		"stopPend": 13,
+		"driverName": "Piechocki,John(10068334)",
+		"delay": "18",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.610527",
+		"xvlnlongitude": "-92.320872",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100091",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5542",
+		"stopPend": 10,
+		"driverName": "Blanchard,Paul(50039166)",
+		"delay": "-4",
+		"status": "R",
+		"totalStops": 12,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.767562",
+		"xvlnlongitude": "-92.458559",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129951",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5543",
+		"stopPend": 9,
+		"driverName": "Raney,Scott(10068403)",
+		"delay": "21",
+		"status": "R",
+		"totalStops": 11,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.752952",
+		"xvlnlongitude": "-92.344026",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100095",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5544",
+		"stopPend": 11,
+		"driverName": "Ray,James(10068485)",
+		"delay": "-5",
+		"status": "R",
+		"totalStops": 14,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.951710",
+		"xvlnlongitude": "-92.055004",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129702",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5545",
+		"stopPend": 14,
+		"driverName": "Duvall,Jordan(10155329)",
+		"delay": "-2",
+		"status": "R",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.938132",
+		"xvlnlongitude": "-92.076814",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "132520",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5546",
+		"stopPend": 14,
+		"driverName": "Smith,Broderick(50003613)",
+		"delay": "-7",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.850791",
+		"xvlnlongitude": "-92.404915",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100077",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5548",
+		"stopPend": 10,
+		"driverName": "Melifonwu,Frederick(50065",
+		"delay": "35",
+		"status": "R",
+		"totalStops": 11,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.795604",
+		"xvlnlongitude": "-92.222133",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100093",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5550",
+		"stopPend": 16,
+		"driverName": "Foster,Marcus(50012388)",
+		"delay": "4",
+		"status": "R",
+		"totalStops": 17,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.726521",
+		"xvlnlongitude": "-92.278217",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100092",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5551",
+		"stopPend": 11,
+		"driverName": "Parker,Todd(10068374)",
+		"delay": "-4",
+		"status": "R",
+		"totalStops": 12,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.782699",
+		"xvlnlongitude": "-92.136415",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "106937",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5553",
+		"stopPend": 17,
+		"driverName": "Curry,Jerry(10068608)",
+		"delay": "-16",
+		"status": "R",
+		"totalStops": 18,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.546560",
+		"xvlnlongitude": "-91.971084",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "129701",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5554",
+		"stopPend": 15,
+		"driverName": "Peters,Gary(50054940)",
+		"delay": "14",
+		"status": "R",
+		"totalStops": 16,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.752690",
+		"xvlnlongitude": "-92.392224",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100086",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5555",
+		"stopPend": 11,
+		"driverName": "Baldwin,Bobby(10069069)",
+		"delay": "-1",
+		"status": "R",
+		"totalStops": 12,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.755005",
+		"xvlnlongitude": "-92.270223",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "106940",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5556",
+		"stopPend": 3,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 3,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5559",
+		"stopPend": 9,
+		"driverName": "Johnson,Damarkus(50063730",
+		"delay": "7",
+		"status": "R",
+		"totalStops": 9,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.690966",
+		"xvlnlongitude": "-92.346894",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100083",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5560",
+		"stopPend": 14,
+		"driverName": "Gilbert,William(10068140)",
+		"delay": "-26",
+		"status": "R",
+		"totalStops": 15,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "34.725957",
+		"xvlnlongitude": "-92.389247",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "100090",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5561",
+		"stopPend": 1,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "7570",
+		"stopPend": 5,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 5,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "7571",
+		"stopPend": 5,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 5,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "8801",
+		"stopPend": 1,
+		"driverName": "Jeremy Allen",
+		"delay": null,
+		"status": "S",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133682",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "8802",
+		"stopPend": 1,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "8A",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 2,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "93A",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 2,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "9A",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 2,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I2724",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4198",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4218",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4228",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4247",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4252",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4278",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4281",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4283",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4288",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4292",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4301",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4307",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4309",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4332",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4346",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4353",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4363",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4367",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4400",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4421",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4440",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4511",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4545",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4555",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4587",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4645",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4647",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4649",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4672",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4676",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4700",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4715",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4725",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4782",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4789",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4792",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4803",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4807",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4861",
+		"stopPend": 1,
+		"driverName": null,
+		"delay": null,
+		"status": "S",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4950",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I4988",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "I5209",
+		"stopPend": 0,
+		"driverName": null,
+		"delay": null,
+		"status": "D",
+		"totalStops": 1,
+		"deliveryDate": "20170609",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": null,
+		"xvlnlongitude": null,
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": false,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": null,
+		"normalRoute": false,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": false
+	}, {
+		"routeNo": "5516",
+		"stopPend": 11,
+		"driverName": "Gayler,John(50014614)",
+		"delay": "-21",
+		"status": "R",
+		"totalStops": 12,
+		"deliveryDate": "20170608",
+		"plannedDispatch": null,
+		"plannedCompletion": null,
+		"caseCount": 0,
+		"xvlnlatitude": "35.102196",
+		"xvlnlongitude": "-92.438910",
+		"xataOrgLatitude": "34.69367",
+		"xataOrgLongitude": "-92.34120",
+		"hasMissingStops": true,
+		"hasSwitchStops": false,
+		"hasNCustomerStops": false,
+		"mergedRoute": null,
+		"stopInfoList": null,
+		"containsNewEntry": "N",
+		"routeComment": null,
+		"tractorID": "133501",
+		"normalRoute": true,
+		"immediateRoute": false,
+		"parentRoute": true,
+		"exceptionRoute": true
+	}],
+	"mapData": {
+		"edit_enabled": "Y",
+		"dc_enabled": "N",
+		"customers": [{
+			"customerNumber": "898924",
+			"customerName": "00-00-0120-641 AR EMP PURCHASE"
+		}, {
+			"customerNumber": "238485",
+			"customerName": "5 STAR THEATRE"
+		}, {
+			"customerNumber": "911412",
+			"customerName": "60-60-1351-000 BR SAMPLES"
+		}, {
+			"customerNumber": "977363",
+			"customerName": "66 PIT STOP - WFS"
+		}, {
+			"customerNumber": "972034",
+			"customerName": "71 EXPRESS"
+		}, {
+			"customerNumber": "922914",
+			"customerName": "A AND B CAJUN CONNECTIONS"
+		}, {
+			"customerNumber": "130451",
+			"customerName": "ABS VENDING"
+		}, {
+			"customerNumber": "337841",
+			"customerName": "ADITA'S SEAFOOD AND GRILL"
+		}, {
+			"customerNumber": "140194",
+			"customerName": "AJ'S OASIS RECPLEX AND GRILL"
+		}, {
+			"customerNumber": "43398",
+			"customerName": "ALL ABOARD INC"
+		}, {
+			"customerNumber": "380055",
+			"customerName": "ALLEY OOPS"
+		}, {
+			"customerNumber": "258988",
+			"customerName": "AMERICAN BURGER CENTER"
+		}, {
+			"customerNumber": "54924",
+			"customerName": "AMIGO JUAN MEXICAN CAFE IN"
+		}, {
+			"customerNumber": "256883",
+			"customerName": "ANDERSON'S"
+		}, {
+			"customerNumber": "267096",
+			"customerName": "ANDERSON'S GOSHEN"
+		}, {
+			"customerNumber": "330472",
+			"customerName": "AR JUVENILE ASSESSMENT & TRTM"
+		}, {
+			"customerNumber": "241851",
+			"customerName": "ARA 1864 HARDING RESIDENTIAL"
+		}, {
+			"customerNumber": "964007",
+			"customerName": "ARA 1892 HENDERSON RESIDENTIA"
+		}, {
+			"customerNumber": "109652",
+			"customerName": "ARA 2754 SAU RESIDENTIAL"
+		}, {
+			"customerNumber": "884213",
+			"customerName": "ARA 2755 UCA CATERING"
+		}, {
+			"customerNumber": "53901",
+			"customerName": "ARA 2755 UCA CONCESSIONS"
+		}, {
+			"customerNumber": "260059",
+			"customerName": "ARA 2755 UCA RESIDENTIAL"
+		}, {
+			"customerNumber": "260109",
+			"customerName": "ARA 2755 UCA STUD CNTR RETAIL"
+		}, {
+			"customerNumber": "326207",
+			"customerName": "ARA 5588 USAF LR HERCULES RET"
+		}, {
+			"customerNumber": "118760",
+			"customerName": "ARKADELPHIA PARKS AQUATIC PRK"
+		}, {
+			"customerNumber": "328237",
+			"customerName": "ARKANSAS CO CO-OP"
+		}, {
+			"customerNumber": "101171",
+			"customerName": "ARKANSAS CO CO-OP ALYMRA"
+		}, {
+			"customerNumber": "92742",
+			"customerName": "ARKANSAS CONVALESCENT CENTER"
+		}, {
+			"customerNumber": "172891",
+			"customerName": "ARKANSAS VETERAN'S HOME AT FA"
+		}, {
+			"customerNumber": "298083",
+			"customerName": "ARTHUR'S STEAKHOUSE BOXED BEE"
+		}, {
+			"customerNumber": "157305",
+			"customerName": "ARVAC FREEDOM HOUSE"
+		}, {
+			"customerNumber": "21386",
+			"customerName": "ASHTON PLACE HEALTH & REHAB"
+		}, {
+			"customerNumber": "925578",
+			"customerName": "AUNT JESSI'S DINER"
+		}, {
+			"customerNumber": "309187",
+			"customerName": "AUTUMN HILL"
+		}, {
+			"customerNumber": "50153",
+			"customerName": "AZ FOOD MART LLC"
+		}, {
+			"customerNumber": "127415",
+			"customerName": "BAILEYS PIZZA"
+		}, {
+			"customerNumber": "245787",
+			"customerName": "BALBOA CLUB C O HSV P.O.A"
+		}, {
+			"customerNumber": "102541",
+			"customerName": "BAPTIST HEALTH MED CNTR HOT S"
+		}, {
+			"customerNumber": "102657",
+			"customerName": "BAPTIST HEALTH MED CNTR STARB"
+		}, {
+			"customerNumber": "318030",
+			"customerName": "BAR LOUIE LITTLE ROCK 0910"
+		}, {
+			"customerNumber": "154881",
+			"customerName": "BAR LOUIE NORTH LITTLE ROCK 0"
+		}, {
+			"customerNumber": "73700",
+			"customerName": "BARLING SENIOR ACTIVITY CENTE"
+		}, {
+			"customerNumber": "54908",
+			"customerName": "BATES FIELD & STREAM"
+		}, {
+			"customerNumber": "911990",
+			"customerName": "BEAR CREEK HEALTHCARE"
+		}, {
+			"customerNumber": "112391",
+			"customerName": "BEEF O BRADY'S - MAUMELLE"
+		}, {
+			"customerNumber": "50419",
+			"customerName": "BEEF O'BRADY'S FORT SMITH"
+		}, {
+			"customerNumber": "86215",
+			"customerName": "BEEF O'BRADYS BATESVILLE"
+		}, {
+			"customerNumber": "328468",
+			"customerName": "BELLY UP"
+		}, {
+			"customerNumber": "929380",
+			"customerName": "BENTLEY'S RESTAURANT"
+		}, {
+			"customerNumber": "115303",
+			"customerName": "BENTONVILLE BUTCHER"
+		}, {
+			"customerNumber": "259903",
+			"customerName": "BEST WESTERN INN -JACKSONVILL"
+		}, {
+			"customerNumber": "294751",
+			"customerName": "BIG BEN'S FOOD & FUN"
+		}, {
+			"customerNumber": "999854",
+			"customerName": "BIG CREEK GOLF & COUNTRY CLUB"
+		}, {
+			"customerNumber": "336172",
+			"customerName": "BIG D SUPER MARKET"
+		}, {
+			"customerNumber": "53165",
+			"customerName": "BIG D'S ONE STOP"
+		}, {
+			"customerNumber": "274779",
+			"customerName": "BIG DADDY'S LAKESIDE SEAFOOD"
+		}, {
+			"customerNumber": "84095",
+			"customerName": "BIG ORANGE BURGER MIDTOWN"
+		}, {
+			"customerNumber": "46987",
+			"customerName": "BIG ORANGE BURGER WEST"
+		}, {
+			"customerNumber": "142083",
+			"customerName": "BIG ROCK MINI GOLF AND FUN PA"
+		}, {
+			"customerNumber": "285635",
+			"customerName": "BIG WHISKEY'S"
+		}, {
+			"customerNumber": "64154",
+			"customerName": "BJ'S T"
+		}, {
+			"customerNumber": "149948",
+			"customerName": "BLUE DIAMOND CAFE"
+		}, {
+			"customerNumber": "332361",
+			"customerName": "BOBBIE SUE'S RESTAURANT"
+		}, {
+			"customerNumber": "440297",
+			"customerName": "BOGG SPRINGS CHURCH CAMP"
+		}, {
+			"customerNumber": "141606",
+			"customerName": "BOSTON'S GOURMET PIZZA 1302"
+		}, {
+			"customerNumber": "122002",
+			"customerName": "BOUDREAUX'S MAUMELLE"
+		}, {
+			"customerNumber": "21436",
+			"customerName": "BRADFORD HOUSE NURSING & REHA"
+		}, {
+			"customerNumber": "430322",
+			"customerName": "BRAVE NEW RESTAURANT"
+		}, {
+			"customerNumber": "161133",
+			"customerName": "BREAK TIME 3031"
+		}, {
+			"customerNumber": "241943",
+			"customerName": "BRIGHTON RIDGE"
+		}, {
+			"customerNumber": "115618",
+			"customerName": "BROOKSTONE ASSISTED LIVING LL"
+		}, {
+			"customerNumber": "80564",
+			"customerName": "BROWN'S COUNTRY RESTAURANT"
+		}, {
+			"customerNumber": "178236",
+			"customerName": "BRYANT CAFE"
+		}, {
+			"customerNumber": "850677",
+			"customerName": "BUDD CREEK BAPTIST CAMP"
+		}, {
+			"customerNumber": "319673",
+			"customerName": "BUDDY'S CATERING"
+		}, {
+			"customerNumber": "220863",
+			"customerName": "BUFFALO POINT CONCESSION"
+		}, {
+			"customerNumber": "483206",
+			"customerName": "BUTCHER SHOP LITTLE ROCK"
+		}, {
+			"customerNumber": "138750",
+			"customerName": "BUTTERFIELD PLACE NO 5482"
+		}, {
+			"customerNumber": "125799",
+			"customerName": "BYARS OIL NO 2"
+		}, {
+			"customerNumber": "272302",
+			"customerName": "CADENCE ACADEMY NO 412"
+		}, {
+			"customerNumber": "87031",
+			"customerName": "CAFE BOSSA NOVA"
+		}, {
+			"customerNumber": "938571",
+			"customerName": "CAFE KLASER"
+		}, {
+			"customerNumber": "310391",
+			"customerName": "CAJUN BOILER"
+		}, {
+			"customerNumber": "181644",
+			"customerName": "CAMP BEAR TRACK"
+		}, {
+			"customerNumber": "113043",
+			"customerName": "CAMP DAVID"
+		}, {
+			"customerNumber": "268797",
+			"customerName": "CAMP HARVEST"
+		}, {
+			"customerNumber": "269282",
+			"customerName": "CAMP OZARK - SUMMIT KITCHEN"
+		}, {
+			"customerNumber": "24513",
+			"customerName": "CAMP WINNAMOKA - SUMMER"
+		}, {
+			"customerNumber": "229062",
+			"customerName": "CAN 03832 REMINGTON ARMS"
+		}, {
+			"customerNumber": "410480",
+			"customerName": "CANCUN MEXICAN REST JAX"
+		}, {
+			"customerNumber": "142679",
+			"customerName": "CARDINAL CAFE"
+		}, {
+			"customerNumber": "319475",
+			"customerName": "CAROLINE BAPTIST ASSOCIATION"
+		}, {
+			"customerNumber": "333336",
+			"customerName": "CARPENTER'S PRODUCE & FISH"
+		}, {
+			"customerNumber": "95562",
+			"customerName": "CASA BRAVA"
+		}, {
+			"customerNumber": "918367",
+			"customerName": "CASA CATRINA"
+		}, {
+			"customerNumber": "49262",
+			"customerName": "CASA MEXICANA NO 2"
+		}, {
+			"customerNumber": "915736",
+			"customerName": "CASA MOJITOS"
+		}, {
+			"customerNumber": "195552",
+			"customerName": "CASH & CARRY MARKET - WFS"
+		}, {
+			"customerNumber": "270504",
+			"customerName": "CATFISH N"
+		}, {
+			"customerNumber": "319335",
+			"customerName": "CATTLEMANS CAFE"
+		}, {
+			"customerNumber": "220244",
+			"customerName": "CECI'S CHICKEN N WAFFLES"
+		}, {
+			"customerNumber": "954107",
+			"customerName": "CENTENNIAL VALLEY CC-19 HL"
+		}, {
+			"customerNumber": "315721",
+			"customerName": "CENTENNIAL VALLEY EVENT CENTE"
+		}, {
+			"customerNumber": "182139",
+			"customerName": "CENTRAL BAPTIST COLLEGE"
+		}, {
+			"customerNumber": "61796",
+			"customerName": "CENTRAL CHRISTIAN ACADEMY - G"
+		}, {
+			"customerNumber": "337386",
+			"customerName": "CHAPEL RIDGE HEALTH & REHAB"
+		}, {
+			"customerNumber": "925065",
+			"customerName": "CHARLYN'S RESTAURANT AND SODA"
+		}, {
+			"customerNumber": "228908",
+			"customerName": "CHE 08140 STUDENT UNION"
+		}, {
+			"customerNumber": "228890",
+			"customerName": "CHE 08171 BROUGH DINING"
+		}, {
+			"customerNumber": "228841",
+			"customerName": "CHE 12807 NW QUAD DINING"
+		}, {
+			"customerNumber": "324616",
+			"customerName": "CHE 21237 U OF ARK PAPA JOHNS"
+		}, {
+			"customerNumber": "43406",
+			"customerName": "CHE 23747 BASWELL TECH ARKANS"
+		}, {
+			"customerNumber": "180001",
+			"customerName": "CHE 28905 U OF ARK ATHLETICS"
+		}, {
+			"customerNumber": "997429",
+			"customerName": "CHECKERED FLAG"
+		}, {
+			"customerNumber": "102202",
+			"customerName": "CHEER'S IN MAUMELLE"
+		}, {
+			"customerNumber": "269688",
+			"customerName": "CHEN'S GARDEN"
+		}, {
+			"customerNumber": "110304",
+			"customerName": "CHERYL'S DINER"
+		}, {
+			"customerNumber": "173179",
+			"customerName": "CHI ST VINCENT H S MATERIALS"
+		}, {
+			"customerNumber": "134635",
+			"customerName": "CHI ST VINCENT HOT SPRINGS"
+		}, {
+			"customerNumber": "160556",
+			"customerName": "CHICAGO'S PHILLYS AND GYROS"
+		}, {
+			"customerNumber": "239079",
+			"customerName": "CHILD DEVELOPMENT CENTER"
+		}, {
+			"customerNumber": "21139",
+			"customerName": "CHINA JADE RESTAURANT"
+		}, {
+			"customerNumber": "56333",
+			"customerName": "CHINA STAR"
+		}, {
+			"customerNumber": "175778",
+			"customerName": "CHOPPING BLOCK STEAK HOUSE 05"
+		}, {
+			"customerNumber": "151274",
+			"customerName": "CHS 145E SPARKS MEDICAL CNTR"
+		}, {
+			"customerNumber": "151142",
+			"customerName": "CHS 23901E SPARKS REGIONAL ME"
+		}, {
+			"customerNumber": "150797",
+			"customerName": "CHS 63962E NW MED CNTR - BENT"
+		}, {
+			"customerNumber": "151126",
+			"customerName": "CHS 63963E NW MED CNTR - SPRI"
+		}, {
+			"customerNumber": "147165",
+			"customerName": "CIRCLE T"
+		}, {
+			"customerNumber": "182691",
+			"customerName": "CITGO OF HAZEN LLC T RICKS AB"
+		}, {
+			"customerNumber": "85861",
+			"customerName": "CLARK COUNTY DETENTION FACILI"
+		}, {
+			"customerNumber": "11304",
+			"customerName": "CLUB 178"
+		}, {
+			"customerNumber": "59469",
+			"customerName": "CLUB ECO KIDS"
+		}, {
+			"customerNumber": "319376",
+			"customerName": "COLDWATER CATFISH"
+		}, {
+			"customerNumber": "113274",
+			"customerName": "COLONIAL STEAK HOUSE- NEW"
+		}, {
+			"customerNumber": "123596",
+			"customerName": "COLORADO GRILL"
+		}, {
+			"customerNumber": "46136",
+			"customerName": "COLTON'S - BENTON"
+		}, {
+			"customerNumber": "185256",
+			"customerName": "COLTON'S - CABOT"
+		}, {
+			"customerNumber": "273110",
+			"customerName": "COLTON'S - MOUNTAIN HOME"
+		}, {
+			"customerNumber": "39396",
+			"customerName": "COLTON'S - RUSSELLVILLE"
+		}, {
+			"customerNumber": "240556",
+			"customerName": "COLTON'S - SEARCY"
+		}, {
+			"customerNumber": "921791",
+			"customerName": "COMBS STORE AND CAF?"
+		}, {
+			"customerNumber": "111369",
+			"customerName": "COMFORT INN"
+		}, {
+			"customerNumber": "58594",
+			"customerName": "COMFORT INN - CADDO VALLEY"
+		}, {
+			"customerNumber": "183301",
+			"customerName": "COMFORT INN BENTONVILLE NO 2"
+		}, {
+			"customerNumber": "102641",
+			"customerName": "COMFORT SUITES"
+		}, {
+			"customerNumber": "50559",
+			"customerName": "COMMUNITY SCHOOL OF CLEBURNE"
+		}, {
+			"customerNumber": "924084",
+			"customerName": "COOL POOL CAFE"
+		}, {
+			"customerNumber": "269035",
+			"customerName": "COPELANDS OF LITTLE ROCK"
+		}, {
+			"customerNumber": "146258",
+			"customerName": "COPELANDS OF NEW ORLEANS"
+		}, {
+			"customerNumber": "71456",
+			"customerName": "CORKY'S RIBS & BBQ"
+		}, {
+			"customerNumber": "124875",
+			"customerName": "CORNER STORE"
+		}, {
+			"customerNumber": "88377",
+			"customerName": "COTIJA MALVERN"
+		}, {
+			"customerNumber": "229799",
+			"customerName": "COTIJAS RESTAURANT -SHERIDAN"
+		}, {
+			"customerNumber": "919316",
+			"customerName": "COTTONTOWN SMOKEHOUSE"
+		}, {
+			"customerNumber": "266940",
+			"customerName": "COUNTRY CLUB VILLAGE"
+		}, {
+			"customerNumber": "440511",
+			"customerName": "COUNTRY EXPRESS"
+		}, {
+			"customerNumber": "76679",
+			"customerName": "COUNTRY INN & SUITES"
+		}, {
+			"customerNumber": "171918",
+			"customerName": "COUNTRY INN & SUITES"
+		}, {
+			"customerNumber": "192344",
+			"customerName": "COUNTRY INNS & SUITES"
+		}, {
+			"customerNumber": "50641",
+			"customerName": "COUNTRYSIDE RETIREMENT CENTER"
+		}, {
+			"customerNumber": "321281",
+			"customerName": "COURTYARD BY MARRIOT FT SMITH"
+		}, {
+			"customerNumber": "243881",
+			"customerName": "COW PEN-LAKE VILLAGE"
+		}, {
+			"customerNumber": "47324",
+			"customerName": "COWBOY'S BBQ-BATESVILLE"
+		}, {
+			"customerNumber": "129296",
+			"customerName": "CRATER OF DIAMOND STATE PARK"
+		}, {
+			"customerNumber": "889063",
+			"customerName": "CRAWFORD HEALTH CARE& REHA"
+		}, {
+			"customerNumber": "75648",
+			"customerName": "CRAWPAPPY'S CAJUN CUISINE"
+		}, {
+			"customerNumber": "238196",
+			"customerName": "CREGEEN'S IRISH PUB"
+		}, {
+			"customerNumber": "230284",
+			"customerName": "CRESCENT HOTEL"
+		}, {
+			"customerNumber": "341008",
+			"customerName": "CRESTPARK RETIREMENT INN"
+		}, {
+			"customerNumber": "929281",
+			"customerName": "CROSSBOW RESTAURANT"
+		}, {
+			"customerNumber": "57596",
+			"customerName": "CROSSCREEK SANDWICH SHOP"
+		}, {
+			"customerNumber": "157800",
+			"customerName": "CROSSWOODS RESTAURANT"
+		}, {
+			"customerNumber": "920553",
+			"customerName": "CROWNE PLAZA LITTLE ROCK"
+		}, {
+			"customerNumber": "195628",
+			"customerName": "CRYSTAL SRINGS MERCANTILE & C"
+		}, {
+			"customerNumber": "912592",
+			"customerName": "DAILY PRESS JUICERY"
+		}, {
+			"customerNumber": "923896",
+			"customerName": "DAIRY DINER"
+		}, {
+			"customerNumber": "332395",
+			"customerName": "DAIRY FREEZE"
+		}, {
+			"customerNumber": "104687",
+			"customerName": "DALLAS COUNTY MED CENTER"
+		}, {
+			"customerNumber": "293142",
+			"customerName": "DARRELL'S HILLSIDE"
+		}, {
+			"customerNumber": "111963",
+			"customerName": "DARRELL'S ONE STOP"
+		}, {
+			"customerNumber": "207845",
+			"customerName": "DAVID'S FAMILY KITCHEN 03"
+		}, {
+			"customerNumber": "83659",
+			"customerName": "DAYS INN"
+		}, {
+			"customerNumber": "50674",
+			"customerName": "DEER CREEK FIRE AND STONE"
+		}, {
+			"customerNumber": "300657",
+			"customerName": "DEGRAY STATE PARK LODGE"
+		}, {
+			"customerNumber": "257378",
+			"customerName": "DEL SOL"
+		}, {
+			"customerNumber": "238246",
+			"customerName": "DELICIOUS TEMPTATIONS"
+		}, {
+			"customerNumber": "96867",
+			"customerName": "DELTA COUNTRY CLUB INC"
+		}, {
+			"customerNumber": "70805",
+			"customerName": "DELTA MEMORIAL HOSPITAL 5907E"
+		}, {
+			"customerNumber": "271122",
+			"customerName": "DELTA RESORT & SPA"
+		}, {
+			"customerNumber": "193011",
+			"customerName": "DERMOTT BBQ"
+		}, {
+			"customerNumber": "331363",
+			"customerName": "DERMOTT CITY NURSING HOME"
+		}, {
+			"customerNumber": "189878",
+			"customerName": "DERMOTT SUPERSTOP"
+		}, {
+			"customerNumber": "187013",
+			"customerName": "DEWAYNE'S BBQ"
+		}, {
+			"customerNumber": "924902",
+			"customerName": "DIAMOND PARK SPEEDWAY"
+		}, {
+			"customerNumber": "329243",
+			"customerName": "DIAMONDHEAD COMMUNITY MARKET"
+		}, {
+			"customerNumber": "337089",
+			"customerName": "DICKEYS AR 0239 LOWELL"
+		}, {
+			"customerNumber": "337238",
+			"customerName": "DICKEYS AR 0657 ROGERS"
+		}, {
+			"customerNumber": "337196",
+			"customerName": "DICKEYS AR 0658 FAYETTEVILLE"
+		}, {
+			"customerNumber": "337204",
+			"customerName": "DICKEYS AR 0706 BRYANT"
+		}, {
+			"customerNumber": "337221",
+			"customerName": "DICKEYS AR 1110 N LITTLE ROCK"
+		}, {
+			"customerNumber": "162024",
+			"customerName": "DIP FOOD AND GAS"
+		}, {
+			"customerNumber": "262774",
+			"customerName": "DIXIE DONUTS & COFFEE LLC"
+		}, {
+			"customerNumber": "320135",
+			"customerName": "DODGE STORE NO 632 STUTTGART"
+		}, {
+			"customerNumber": "201830",
+			"customerName": "DODGE STORE NO 634 - CLRKSVLE"
+		}, {
+			"customerNumber": "279711",
+			"customerName": "DON JUAN GRILL & CANTINA"
+		}, {
+			"customerNumber": "300889",
+			"customerName": "DON JUAN MEXICAN"
+		}, {
+			"customerNumber": "145656",
+			"customerName": "DON JUAN MEXICAN BAR & GRILL"
+		}, {
+			"customerNumber": "916411",
+			"customerName": "DORA HIBACHI EXPRESS"
+		}, {
+			"customerNumber": "123760",
+			"customerName": "DOS RIOS BERRYVILLE"
+		}, {
+			"customerNumber": "141416",
+			"customerName": "DOUBLETREE LITTLE ROCK"
+		}, {
+			"customerNumber": "116947",
+			"customerName": "DUMAS MART"
+		}, {
+			"customerNumber": "77016",
+			"customerName": "EAST END CAFE II"
+		}, {
+			"customerNumber": "21873",
+			"customerName": "EASTERN OKLAHOMA MEDICAL CNTR"
+		}, {
+			"customerNumber": "102591",
+			"customerName": "EL AGAVES"
+		}, {
+			"customerNumber": "92817",
+			"customerName": "EL COMPADRE"
+		}, {
+			"customerNumber": "351304",
+			"customerName": "EL DORADO COUNTRY CLUB"
+		}, {
+			"customerNumber": "300913",
+			"customerName": "EL LORITO INC NO 2"
+		}, {
+			"customerNumber": "93741",
+			"customerName": "EL MEXICO LINDO RESTAURANTE"
+		}, {
+			"customerNumber": "47712",
+			"customerName": "EL PALACIO"
+		}, {
+			"customerNumber": "115329",
+			"customerName": "EL PENJAMO TOQUERIA"
+		}, {
+			"customerNumber": "105114",
+			"customerName": "EL POBLANO"
+		}, {
+			"customerNumber": "193805",
+			"customerName": "EL PUENTE WFS"
+		}, {
+			"customerNumber": "207787",
+			"customerName": "EL RANCHO VILONIA"
+		}, {
+			"customerNumber": "205559",
+			"customerName": "EL TORITO MEXICAN REST ENT"
+		}, {
+			"customerNumber": "853838",
+			"customerName": "ELKS LODGE NO 1714"
+		}, {
+			"customerNumber": "321307",
+			"customerName": "EMBASSY SUITES HOT SPRINGS NE"
+		}, {
+			"customerNumber": "321299",
+			"customerName": "EMBASSY SUITES ROGERS NEW"
+		}, {
+			"customerNumber": "860304",
+			"customerName": "EMERSON FOOD MART"
+		}, {
+			"customerNumber": "260703",
+			"customerName": "ET RELAY NO 1"
+		}, {
+			"customerNumber": "44131",
+			"customerName": "EUR 24583 FIS LITTLE ROCK"
+		}, {
+			"customerNumber": "75143",
+			"customerName": "EUR 27156 BLUE CROSS BLUE SHI"
+		}, {
+			"customerNumber": "104364",
+			"customerName": "EUR 28771 L'OREAL NORTH LITTL"
+		}, {
+			"customerNumber": "317065",
+			"customerName": "FAMILY FARM CAMP"
+		}, {
+			"customerNumber": "57695",
+			"customerName": "FAMILY MARKET"
+		}, {
+			"customerNumber": "54114",
+			"customerName": "FAST TRAX"
+		}, {
+			"customerNumber": "54882",
+			"customerName": "FASTLANE ENTERTAINMENT"
+		}, {
+			"customerNumber": "260802",
+			"customerName": "FAT BOYS FINE DINING"
+		}, {
+			"customerNumber": "338095",
+			"customerName": "FAT DADDY'S BBQ CONWAY"
+		}, {
+			"customerNumber": "144782",
+			"customerName": "FAT DADDY'S BBQ DOWNTOWN"
+		}, {
+			"customerNumber": "229864",
+			"customerName": "FAT DADDY'S OF RUSSELLVILLE"
+		}, {
+			"customerNumber": "322131",
+			"customerName": "FAULKNER COUNTY COUNCIL AGING"
+		}, {
+			"customerNumber": "929075",
+			"customerName": "FAYETTEVILLE HEALTH REHAB"
+		}, {
+			"customerNumber": "83584",
+			"customerName": "FELTNER'S WHATTABURGER"
+		}, {
+			"customerNumber": "164772",
+			"customerName": "FIANNA HILLS NURSING AND REHA"
+		}, {
+			"customerNumber": "107276",
+			"customerName": "FIESTA BOWL"
+		}, {
+			"customerNumber": "390609",
+			"customerName": "FIRE STATION NO 11"
+		}, {
+			"customerNumber": "300905",
+			"customerName": "FIRST BAPTIST CHURCH ARKADELP"
+		}, {
+			"customerNumber": "136986",
+			"customerName": "FIRST BAPTIST CHURCH SMACKOVE"
+		}, {
+			"customerNumber": "336991",
+			"customerName": "FISH CITY GRILL"
+		}, {
+			"customerNumber": "60715",
+			"customerName": "FISHERMANS WHARF RESTAURANT"
+		}, {
+			"customerNumber": "104737",
+			"customerName": "FIVE STAR CONVENIENCE LLC"
+		}, {
+			"customerNumber": "96371",
+			"customerName": "FLAVORS INDIAN CUISINE"
+		}, {
+			"customerNumber": "115311",
+			"customerName": "FLK 29393 THE NEW SCHOOL"
+		}, {
+			"customerNumber": "112441",
+			"customerName": "FORDYCE ASST LIVING"
+		}, {
+			"customerNumber": "943787",
+			"customerName": "FORDYCE COUNTRY CLUB"
+		}, {
+			"customerNumber": "921742",
+			"customerName": "FORDYCE QUICK MART"
+		}, {
+			"customerNumber": "872416",
+			"customerName": "FOREST HILL INC"
+		}, {
+			"customerNumber": "924423",
+			"customerName": "FORTE'S WINGS & CATFISH"
+		}, {
+			"customerNumber": "80416",
+			"customerName": "FOSTER'S CAFE"
+		}, {
+			"customerNumber": "135103",
+			"customerName": "FOSTER'S PINT AND PLATE LLC"
+		}, {
+			"customerNumber": "139212",
+			"customerName": "FOUR WAY CAFE"
+		}, {
+			"customerNumber": "71829",
+			"customerName": "FOX'S PIZZA DEN"
+		}, {
+			"customerNumber": "264580",
+			"customerName": "FOXRIDGE LIVING CENTER -CHENA"
+		}, {
+			"customerNumber": "910349",
+			"customerName": "FP OKLAHOMA CITY"
+		}, {
+			"customerNumber": "880286",
+			"customerName": "FRED'S FISH HOUSE"
+		}, {
+			"customerNumber": "308429",
+			"customerName": "FUJI JAPANESE STEAKHOUSE"
+		}, {
+			"customerNumber": "208140",
+			"customerName": "FUJI JAPANESE STEAKHOUSE 03"
+		}, {
+			"customerNumber": "921122",
+			"customerName": "GANDOLFO'S DELI AT LITTLE ROCK"
+		}, {
+			"customerNumber": "870121",
+			"customerName": "GARDEN AT ARKANSHIRE NO 5086"
+		}, {
+			"customerNumber": "13110",
+			"customerName": "GASTON'S WR RESORT RESTAURANT"
+		}, {
+			"customerNumber": "105684",
+			"customerName": "GAUTREAUXS"
+		}, {
+			"customerNumber": "911008",
+			"customerName": "GENERAL MILLS"
+		}, {
+			"customerNumber": "22665",
+			"customerName": "GEORGE'S RESTAURANT"
+		}, {
+			"customerNumber": "910448",
+			"customerName": "GOOD OLD DAYS FOODS"
+		}, {
+			"customerNumber": "78063",
+			"customerName": "GOOD SHEPHERD - MORTON"
+		}, {
+			"customerNumber": "924720",
+			"customerName": "GRANADA GRILL"
+		}, {
+			"customerNumber": "326850",
+			"customerName": "GRANNY'S GRILL"
+		}, {
+			"customerNumber": "111013",
+			"customerName": "GREENBRIER NURSING & REHAB"
+		}, {
+			"customerNumber": "322065",
+			"customerName": "GREENBRIER SENIOR CITIZENS"
+		}, {
+			"customerNumber": "75481",
+			"customerName": "GREENHURST NURSING CENTER"
+		}, {
+			"customerNumber": "73312",
+			"customerName": "GREYSTONE NURSING AND REHAB L"
+		}, {
+			"customerNumber": "311555",
+			"customerName": "GSS HOT SPRINGS NO 0450"
+		}, {
+			"customerNumber": "226084",
+			"customerName": "GSS MTN HOME 0470"
+		}, {
+			"customerNumber": "246413",
+			"customerName": "GSS MTN HOME LIVING NO 0470-3"
+		}, {
+			"customerNumber": "110338",
+			"customerName": "GUADALAJARA MEXICAN GRILL"
+		}, {
+			"customerNumber": "920843",
+			"customerName": "GUESTHOUSE INN"
+		}, {
+			"customerNumber": "923375",
+			"customerName": "GUILLERMO'S COFFEE TEA & ROAST"
+		}, {
+			"customerNumber": "912618",
+			"customerName": "GUMBO ZYDECO"
+		}, {
+			"customerNumber": "234526",
+			"customerName": "GURDON QUICK MART"
+		}, {
+			"customerNumber": "58511",
+			"customerName": "H & M DELI"
+		}, {
+			"customerNumber": "153312",
+			"customerName": "HAGARVILLE GROCERY"
+		}, {
+			"customerNumber": "190652",
+			"customerName": "HAMMONTREE'S 2 ELECTRIC BOOGA"
+		}, {
+			"customerNumber": "287276",
+			"customerName": "HAMMONTREE'S GOURMET"
+		}, {
+			"customerNumber": "925289",
+			"customerName": "HARRIS FUNERAL HOME INC."
+		}, {
+			"customerNumber": "65276",
+			"customerName": "HAWG'S EXXON"
+		}, {
+			"customerNumber": "919738",
+			"customerName": "HEIGHTS CORNER MARKET"
+		}, {
+			"customerNumber": "140335",
+			"customerName": "HEIGHTS TACO & TAMALE"
+		}, {
+			"customerNumber": "85175",
+			"customerName": "HERCULES DINING FACILITY"
+		}, {
+			"customerNumber": "102053",
+			"customerName": "HERITAGE INN RETIREMENT CENTE"
+		}, {
+			"customerNumber": "87106",
+			"customerName": "HIBACHI SUSHI BUFFET"
+		}, {
+			"customerNumber": "88484",
+			"customerName": "HILTON GARDEN INN NLR"
+		}, {
+			"customerNumber": "70318",
+			"customerName": "HIRANI INC ABA"
+		}, {
+			"customerNumber": "318279",
+			"customerName": "HOLIDAY INN EXP & SUITES"
+		}, {
+			"customerNumber": "29827",
+			"customerName": "HOLIDAY INN EXPRESS"
+		}, {
+			"customerNumber": "918490",
+			"customerName": "HOLIDAY INN EXPRESS"
+		}, {
+			"customerNumber": "916940",
+			"customerName": "HOLIDAY INN EXPRESS"
+		}, {
+			"customerNumber": "330316",
+			"customerName": "HOLIDAY INN EXPRESS HARRISON"
+		}, {
+			"customerNumber": "55079",
+			"customerName": "HOOTS BBQ"
+		}, {
+			"customerNumber": "910463",
+			"customerName": "HORMEL FOODS"
+		}, {
+			"customerNumber": "311837",
+			"customerName": "HOT SPRINGS COUNTRY CLUB"
+		}, {
+			"customerNumber": "71852",
+			"customerName": "HOWARD MEM HOSP - HPG"
+		}, {
+			"customerNumber": "316141",
+			"customerName": "HPG CONWAY REGIONAL MEDICAL C"
+		}, {
+			"customerNumber": "322586",
+			"customerName": "HPG SALINE MEMORIAL HOSPITAL"
+		}, {
+			"customerNumber": "351650",
+			"customerName": "HUDSON MEMORIAL EHS CLB"
+		}, {
+			"customerNumber": "52662",
+			"customerName": "HUGO'S"
+		}, {
+			"customerNumber": "101162",
+			"customerName": "HUNGRY MAN"
+		}, {
+			"customerNumber": "104372",
+			"customerName": "ICEHOUSE ORIGINAL GRILL"
+		}, {
+			"customerNumber": "336073",
+			"customerName": "IDK CAFE ROGERS"
+		}, {
+			"customerNumber": "914689",
+			"customerName": "IMPERIAL MARKETING"
+		}, {
+			"customerNumber": "183400",
+			"customerName": "INDIAN HILLS COUNTRY CLUB"
+		}, {
+			"customerNumber": "21642",
+			"customerName": "INNISFREE NURSING & REHAB"
+		}, {
+			"customerNumber": "103671",
+			"customerName": "IRONWORKS GALLERIA"
+		}, {
+			"customerNumber": "296897",
+			"customerName": "ITALIAN GARDEN DINING"
+		}, {
+			"customerNumber": "84251",
+			"customerName": "ITALIAN GRILL"
+		}, {
+			"customerNumber": "951111",
+			"customerName": "IZZY'S"
+		}, {
+			"customerNumber": "301754",
+			"customerName": "J J'S TRUCK STOP"
+		}, {
+			"customerNumber": "315259",
+			"customerName": "J.K.'S AT COLUMBUS GRILL"
+		}, {
+			"customerNumber": "960542",
+			"customerName": "JACK'S"
+		}, {
+			"customerNumber": "917849",
+			"customerName": "JACOB'S STORE"
+		}, {
+			"customerNumber": "168501",
+			"customerName": "JAMDOT CHILL SPOT"
+		}, {
+			"customerNumber": "21907",
+			"customerName": "JAMESTOWN NURSING & REHAB"
+		}, {
+			"customerNumber": "86165",
+			"customerName": "JAMIE'S LOCAL FLAVOR"
+		}, {
+			"customerNumber": "131433",
+			"customerName": "JAMISA HOGAN"
+		}, {
+			"customerNumber": "194555",
+			"customerName": "JAY'S COUNTRY STORE"
+		}, {
+			"customerNumber": "889956",
+			"customerName": "JEFF CNTY JUVENILE JUSTICE"
+		}, {
+			"customerNumber": "235135",
+			"customerName": "JEFF COUNTY ADULT JAIL"
+		}, {
+			"customerNumber": "255125",
+			"customerName": "JJ'S LAKESIDE CAFE- LAKE VILL"
+		}, {
+			"customerNumber": "322041",
+			"customerName": "JOHN Q HAMMONS CONVENTION CNT"
+		}, {
+			"customerNumber": "92536",
+			"customerName": "JOJO'S CATFISH WHARF"
+		}, {
+			"customerNumber": "213587",
+			"customerName": "JOSEPH PFEIFER KIWANIS CAMP"
+		}, {
+			"customerNumber": "110411",
+			"customerName": "JW ALUMINUM"
+		}, {
+			"customerNumber": "869792",
+			"customerName": "K P'S QUIK MART"
+		}, {
+			"customerNumber": "240630",
+			"customerName": "K.T.'S BBQ"
+		}, {
+			"customerNumber": "252106",
+			"customerName": "KALLSNICK INC"
+		}, {
+			"customerNumber": "282624",
+			"customerName": "KANDELA GRILL"
+		}, {
+			"customerNumber": "217083",
+			"customerName": "KANPAI JAPANESE NLR 06"
+		}, {
+			"customerNumber": "338004",
+			"customerName": "KAZOKU"
+		}, {
+			"customerNumber": "209049",
+			"customerName": "KELLY'S ON MAIN STREET"
+		}, {
+			"customerNumber": "118224",
+			"customerName": "KEMURI"
+		}, {
+			"customerNumber": "911065",
+			"customerName": "KEY IMPACT SALES"
+		}, {
+			"customerNumber": "160481",
+			"customerName": "KILWINS HOT SPRINGS"
+		}, {
+			"customerNumber": "802",
+			"customerName": "KIN FOLKS"
+		}, {
+			"customerNumber": "64899",
+			"customerName": "KINGSLAND ONE STOP"
+		}, {
+			"customerNumber": "229690",
+			"customerName": "KOBE GRILL & SUSHI"
+		}, {
+			"customerNumber": "858530",
+			"customerName": "KORNER CAFE WF"
+		}, {
+			"customerNumber": "248419",
+			"customerName": "KOUNTRY KITCHEN GRILL"
+		}, {
+			"customerNumber": "270025",
+			"customerName": "KOZY KITCHEN STEAK AND SEAFOO"
+		}, {
+			"customerNumber": "910570",
+			"customerName": "KRISPY KRUNCH FOODS"
+		}, {
+			"customerNumber": "17368",
+			"customerName": "KROGER AIRPORT RD HS 025619"
+		}, {
+			"customerNumber": "18705",
+			"customerName": "KROGER MAUMELLE 025606"
+		}, {
+			"customerNumber": "74526",
+			"customerName": "KWIK STOP"
+		}, {
+			"customerNumber": "266866",
+			"customerName": "L.J.'S -LAKE VILLAGE"
+		}, {
+			"customerNumber": "57571",
+			"customerName": "LA CHIQUITA (CLARKSVILLE)"
+		}, {
+			"customerNumber": "180315",
+			"customerName": "LA ESTRELLA"
+		}, {
+			"customerNumber": "262857",
+			"customerName": "LA FIESTA"
+		}, {
+			"customerNumber": "859405",
+			"customerName": "LA HACIENDA BENTON"
+		}, {
+			"customerNumber": "993089",
+			"customerName": "LA PETITE CAJUN BISTRO"
+		}, {
+			"customerNumber": "50583",
+			"customerName": "LA POPULAR"
+		}, {
+			"customerNumber": "297952",
+			"customerName": "LA QUINTA INN & SUITES"
+		}, {
+			"customerNumber": "51581",
+			"customerName": "LA ROSITA"
+		}, {
+			"customerNumber": "16709",
+			"customerName": "LA ROSITA FOOD GREENBRIER"
+		}, {
+			"customerNumber": "316091",
+			"customerName": "LAKE POINT RESTAURANT AND EVEN"
+		}, {
+			"customerNumber": "225789",
+			"customerName": "LAKEPOINT CONFERENCE CENTER"
+		}, {
+			"customerNumber": "132506",
+			"customerName": "LAKEWOOD HEALTH & REHAB LLC"
+		}, {
+			"customerNumber": "312405",
+			"customerName": "LAKEWOOD HEALTHCARE"
+		}, {
+			"customerNumber": "852236",
+			"customerName": "LAKEWOOD RESIDENTAL CARE"
+		}, {
+			"customerNumber": "316059",
+			"customerName": "LAMBRECHT GOURMET"
+		}, {
+			"customerNumber": "64857",
+			"customerName": "LAQUINTA INNS AND SUITES"
+		}, {
+			"customerNumber": "185272",
+			"customerName": "LARRY'S PIZZA"
+		}, {
+			"customerNumber": "46698",
+			"customerName": "LARRY'S PIZZA"
+		}, {
+			"customerNumber": "187948",
+			"customerName": "LARRY'S PIZZA - CANTRELL"
+		}, {
+			"customerNumber": "249615",
+			"customerName": "LARRY'S PIZZA - CONWAY"
+		}, {
+			"customerNumber": "281568",
+			"customerName": "LARRY'S PIZZA - NLR"
+		}, {
+			"customerNumber": "52290",
+			"customerName": "LARRY'S PIZZA - NO 2 BRYANT"
+		}, {
+			"customerNumber": "275446",
+			"customerName": "LARRY'S PIZZA - WHITE HALL"
+		}, {
+			"customerNumber": "103838",
+			"customerName": "LARRY'S PIZZA CABOT"
+		}, {
+			"customerNumber": "154708",
+			"customerName": "LARRY'S PIZZA MAGNOLIA"
+		}, {
+			"customerNumber": "111807",
+			"customerName": "LARRY'S PIZZA MALVERN"
+		}, {
+			"customerNumber": "54452",
+			"customerName": "LAS FRESAS MEXICAN GRILL INC"
+		}, {
+			"customerNumber": "44289",
+			"customerName": "LAS PALMAS IV"
+		}, {
+			"customerNumber": "294827",
+			"customerName": "LAS PALMAS NO 3"
+		}, {
+			"customerNumber": "860056",
+			"customerName": "LAS PALMAS NORTH LITTLE ROCK"
+		}, {
+			"customerNumber": "63693",
+			"customerName": "LAURA'S MEXICAN KITCHEN"
+		}, {
+			"customerNumber": "889964",
+			"customerName": "LAVENDER'S BARN -PINE BLUFF"
+		}, {
+			"customerNumber": "914937",
+			"customerName": "LAZY PETE'S"
+		}, {
+			"customerNumber": "41178",
+			"customerName": "LEGACY HEIGHTS NURSING AND RE"
+		}, {
+			"customerNumber": "78741",
+			"customerName": "LEO'S GREEK CASTLE - HILLCRES"
+		}, {
+			"customerNumber": "289694",
+			"customerName": "LETTY'S"
+		}, {
+			"customerNumber": "139063",
+			"customerName": "LINDSAY'S PIZZA"
+		}, {
+			"customerNumber": "78501",
+			"customerName": "LITTLE GREEK"
+		}, {
+			"customerNumber": "94482",
+			"customerName": "LITTLE ROCK ATHLETIC CLUB"
+		}, {
+			"customerNumber": "903625",
+			"customerName": "LITTLE ROCK RACQUET CLUB"
+		}, {
+			"customerNumber": "868158",
+			"customerName": "LOCA LUNA"
+		}, {
+			"customerNumber": "83907",
+			"customerName": "LOCAL LIME"
+		}, {
+			"customerNumber": "195685",
+			"customerName": "LONGMEADOW NURS HOME - CAMDEN"
+		}, {
+			"customerNumber": "260299",
+			"customerName": "LONOKE COUNTY JAIL"
+		}, {
+			"customerNumber": "132481",
+			"customerName": "LONOKE HEALTH & REHAB LLC"
+		}, {
+			"customerNumber": "1008",
+			"customerName": "LOS MONTANO'S"
+		}, {
+			"customerNumber": "140848",
+			"customerName": "LOST 40 BREWERY"
+		}, {
+			"customerNumber": "923425",
+			"customerName": "LRAC-DOWNUNDER"
+		}, {
+			"customerNumber": "291500",
+			"customerName": "LYBRAND'S BAKERY"
+		}, {
+			"customerNumber": "975151",
+			"customerName": "LYON COLLEGE - DIN SODEXHO"
+		}, {
+			"customerNumber": "146787",
+			"customerName": "M&S SHARKS ON KIEHL"
+		}, {
+			"customerNumber": "330548",
+			"customerName": "MAC GRILL 1050 LITTLE ROCK"
+		}, {
+			"customerNumber": "88856",
+			"customerName": "MAC'S PLACE"
+		}, {
+			"customerNumber": "47399",
+			"customerName": "MAGELLAN"
+		}, {
+			"customerNumber": "122663",
+			"customerName": "MAGNOLIA REGIONAL MED"
+		}, {
+			"customerNumber": "263111",
+			"customerName": "MAIN STREET GRILL"
+		}, {
+			"customerNumber": "95943",
+			"customerName": "MAIN STREET PIZZA"
+		}, {
+			"customerNumber": "49866",
+			"customerName": "MAPCO EXPRESS"
+		}, {
+			"customerNumber": "191411",
+			"customerName": "MAPCO EXPRESS 7534"
+		}, {
+			"customerNumber": "323204",
+			"customerName": "MARIACHI GRILL"
+		}, {
+			"customerNumber": "168773",
+			"customerName": "MARKHAM STREET GRILL & PUB"
+		}, {
+			"customerNumber": "14860",
+			"customerName": "MCGEHEE HOSPITAL INC"
+		}, {
+			"customerNumber": "922369",
+			"customerName": "MCGEHEE TOBACCO SHOP"
+		}, {
+			"customerNumber": "75572",
+			"customerName": "ME MAW'S KITCHEN"
+		}, {
+			"customerNumber": "954511",
+			"customerName": "MEAN PIG BBQ 09"
+		}, {
+			"customerNumber": "352476",
+			"customerName": "MEL'S SEAFOOD"
+		}, {
+			"customerNumber": "443002",
+			"customerName": "MENA MANOR"
+		}, {
+			"customerNumber": "864553",
+			"customerName": "MERCY MEDICAL ROGERS"
+		}, {
+			"customerNumber": "120816",
+			"customerName": "MERCY ORTHOPEDIC HOSPITAL"
+		}, {
+			"customerNumber": "263616",
+			"customerName": "MEXICO CHIQUITO CANTRELL RD"
+		}, {
+			"customerNumber": "328690",
+			"customerName": "MEXICO CHIQUITO INC CONWAY"
+		}, {
+			"customerNumber": "205583",
+			"customerName": "MEXICO CHIQUITO MARKHAM 02"
+		}, {
+			"customerNumber": "196287",
+			"customerName": "MEXICO CHIQUITO NLR 02"
+		}, {
+			"customerNumber": "228932",
+			"customerName": "MHC 11026 ARK STATE HOSPITAL"
+		}, {
+			"customerNumber": "170209",
+			"customerName": "MHC 11062 NORTHWEST MED CENTE"
+		}, {
+			"customerNumber": "170183",
+			"customerName": "MHC 11065 NW MED BENTONVILLE"
+		}, {
+			"customerNumber": "170101",
+			"customerName": "MHC 23098 SPARKS MED"
+		}, {
+			"customerNumber": "77834",
+			"customerName": "MHC 27361 NTNL HEALTHCARE OF"
+		}, {
+			"customerNumber": "124594",
+			"customerName": "MHC 29525 VANTAGE POINT"
+		}, {
+			"customerNumber": "81851",
+			"customerName": "MIH SALES & MRKTNG"
+		}, {
+			"customerNumber": "44099",
+			"customerName": "MILL CREEK OF ARKANSAS NO 340"
+		}, {
+			"customerNumber": "322198",
+			"customerName": "MISS ANNA'S ON TOWSON"
+		}, {
+			"customerNumber": "917237",
+			"customerName": "MIZUMI HABACHI LLC"
+		}, {
+			"customerNumber": "225375",
+			"customerName": "MOO MOO'S CAFE"
+		}, {
+			"customerNumber": "229419",
+			"customerName": "MORELOS MEXICAN GRILL"
+		}, {
+			"customerNumber": "261859",
+			"customerName": "MORRILTON DRIVE IN"
+		}, {
+			"customerNumber": "199489",
+			"customerName": "MOUNT MAGAZINE STATE PARK"
+		}, {
+			"customerNumber": "163675",
+			"customerName": "MOUNT SEQUOYAH CENTER INC"
+		}, {
+			"customerNumber": "64352",
+			"customerName": "MR PANCHO"
+		}, {
+			"customerNumber": "287243",
+			"customerName": "MS CARRIE'S DAY SCHOOL"
+		}, {
+			"customerNumber": "81521",
+			"customerName": "MSD 27618 BUTTERFIELD TRAIL V"
+		}, {
+			"customerNumber": "279638",
+			"customerName": "MT CARMEL COMMUNITY"
+		}, {
+			"customerNumber": "306977",
+			"customerName": "MULLIGAN'S"
+		}, {
+			"customerNumber": "325241",
+			"customerName": "MURFREESBORO NURS & REHAB FOO"
+		}, {
+			"customerNumber": "336099",
+			"customerName": "MURPHY MARKET"
+		}, {
+			"customerNumber": "337139",
+			"customerName": "NAF GAME TIME CAFE"
+		}, {
+			"customerNumber": "337154",
+			"customerName": "NAF HANGAR 1080"
+		}, {
+			"customerNumber": "337147",
+			"customerName": "NAF VICTOR'S GRILL"
+		}, {
+			"customerNumber": "312751",
+			"customerName": "NATIONAL PARK MED CENTER"
+		}, {
+			"customerNumber": "862144",
+			"customerName": "NEW CHINA"
+		}, {
+			"customerNumber": "85795",
+			"customerName": "NEW CHINA RESTAURANT OF CONWA"
+		}, {
+			"customerNumber": "253054",
+			"customerName": "NEWPORT COUNTRY CLUB"
+		}, {
+			"customerNumber": "72108",
+			"customerName": "NEWPORT MART"
+		}, {
+			"customerNumber": "402057",
+			"customerName": "NICK'S B-B-Q"
+		}, {
+			"customerNumber": "922021",
+			"customerName": "NONG'S EGG ROLL RESTAURANT LLC"
+		}, {
+			"customerNumber": "302109",
+			"customerName": "NUTTERS CHAPEL GOLF &C.C ALP"
+		}, {
+			"customerNumber": "114447",
+			"customerName": "NYPD PIZZA ARKANSAS LLC"
+		}, {
+			"customerNumber": "352906",
+			"customerName": "OAK RIDGE NURSING HOME"
+		}, {
+			"customerNumber": "76885",
+			"customerName": "OCEAN'S AT ARTHUR'S"
+		}, {
+			"customerNumber": "292623",
+			"customerName": "OCEANS FISH AND CHICKEN"
+		}, {
+			"customerNumber": "104778",
+			"customerName": "OLD SOUTH"
+		}, {
+			"customerNumber": "259283",
+			"customerName": "ORTEGA'S MEXICAN RESTAURANT M"
+		}, {
+			"customerNumber": "158865",
+			"customerName": "OTIS SPUNKMEYER - WALK IN"
+		}, {
+			"customerNumber": "959635",
+			"customerName": "OUACHITA BAPT UNIV-SODEXHO"
+		}, {
+			"customerNumber": "71837",
+			"customerName": "OUACHITA CO MED - HPG"
+		}, {
+			"customerNumber": "78667",
+			"customerName": "OUACHITA CTY MED HPG MAT"
+		}, {
+			"customerNumber": "262097",
+			"customerName": "OZARK CONFERENCE CENTER"
+		}, {
+			"customerNumber": "226647",
+			"customerName": "OZARK FOLK CTR SKILLET REST"
+		}, {
+			"customerNumber": "916189",
+			"customerName": "OZARK HEALTH"
+		}, {
+			"customerNumber": "870493",
+			"customerName": "P.J.'S COUNTRY STORE"
+		}, {
+			"customerNumber": "273029",
+			"customerName": "PANDA GARDEN BUFFET"
+		}, {
+			"customerNumber": "52027",
+			"customerName": "PAPPY'S"
+		}, {
+			"customerNumber": "943027",
+			"customerName": "PARIS HEALTH & REHAB CENTE"
+		}, {
+			"customerNumber": "248666",
+			"customerName": "PARKSTONE LIVING CTR FOX RIDG"
+		}, {
+			"customerNumber": "315879",
+			"customerName": "PASTA GRILL - CLARKSVILLE"
+		}, {
+			"customerNumber": "57315",
+			"customerName": "PASTA GRILL - CONWAY"
+		}, {
+			"customerNumber": "197111",
+			"customerName": "PASTA GRILL RUSSELLVILLE"
+		}, {
+			"customerNumber": "911974",
+			"customerName": "PASTA J'S"
+		}, {
+			"customerNumber": "180232",
+			"customerName": "PASTA JACKS"
+		}, {
+			"customerNumber": "148361",
+			"customerName": "PATINA ARVEST"
+		}, {
+			"customerNumber": "921734",
+			"customerName": "PATY'S GORDITAS"
+		}, {
+			"customerNumber": "284836",
+			"customerName": "PEACHTREE ASSISTED LIVING"
+		}, {
+			"customerNumber": "882332",
+			"customerName": "PICKENS GROCERY"
+		}, {
+			"customerNumber": "159509",
+			"customerName": "PINE HILLS COUNTRY CLUB"
+		}, {
+			"customerNumber": "26385",
+			"customerName": "PIZZA PARLOUR ALMA"
+		}, {
+			"customerNumber": "23978",
+			"customerName": "PIZZA PARLOUR VAN BUREN"
+		}, {
+			"customerNumber": "382754",
+			"customerName": "PLEASANT VALLEY COUNTRY CLUB"
+		}, {
+			"customerNumber": "282665",
+			"customerName": "POLLO CAMPERO"
+		}, {
+			"customerNumber": "921536",
+			"customerName": "POPPY'S EATERY & PUB"
+		}, {
+			"customerNumber": "331901",
+			"customerName": "PORKY'S ONE STOP"
+		}, {
+			"customerNumber": "920132",
+			"customerName": "PRAIRIE COUNTY SHERIFF OFFICE"
+		}, {
+			"customerNumber": "72058",
+			"customerName": "PREGO"
+		}, {
+			"customerNumber": "154724",
+			"customerName": "PROFESSIONAL EVENT PLANNERS"
+		}, {
+			"customerNumber": "168567",
+			"customerName": "PROMISE LAND CHURCH"
+		}, {
+			"customerNumber": "103457",
+			"customerName": "PURPLE COW REST - CONWAY"
+		}, {
+			"customerNumber": "316026",
+			"customerName": "QUALITY INN"
+		}, {
+			"customerNumber": "206508",
+			"customerName": "QUEEN WILHELMINA RESTAURANT"
+		}, {
+			"customerNumber": "170852",
+			"customerName": "QUICK FOOD MART INC"
+		}, {
+			"customerNumber": "151456",
+			"customerName": "QUIZNO'S RUSSELLVILLE NO 3741"
+		}, {
+			"customerNumber": "90837",
+			"customerName": "RAINBOW CAFE"
+		}, {
+			"customerNumber": "224600",
+			"customerName": "RAMBLER GRILL"
+		}, {
+			"customerNumber": "291278",
+			"customerName": "RAZORBACK RIBS BBQ & CATERING"
+		}, {
+			"customerNumber": "314138",
+			"customerName": "REBEL KETTLE BREWING"
+		}, {
+			"customerNumber": "294181",
+			"customerName": "REBSAMEN PARK GOLF COURSE"
+		}, {
+			"customerNumber": "187120",
+			"customerName": "RED APPLE INN"
+		}, {
+			"customerNumber": "303511",
+			"customerName": "RED'S FORDYCE"
+		}, {
+			"customerNumber": "75952",
+			"customerName": "RENEW COMMUNITY CHURCH"
+		}, {
+			"customerNumber": "146621",
+			"customerName": "RICH'S DRIVE IN NO 1"
+		}, {
+			"customerNumber": "319087",
+			"customerName": "RIVER CHASE REHAB&CARE CENTER"
+		}, {
+			"customerNumber": "996439",
+			"customerName": "RIVER GRILLE"
+		}, {
+			"customerNumber": "87171",
+			"customerName": "RIVIERA MAYA"
+		}, {
+			"customerNumber": "301184",
+			"customerName": "RIVIERA MAYA"
+		}, {
+			"customerNumber": "183988",
+			"customerName": "RIVIERA MAYA NO 3"
+		}, {
+			"customerNumber": "313254",
+			"customerName": "ROD'S PIZZA CELLAR NO 1"
+		}, {
+			"customerNumber": "243956",
+			"customerName": "ROLLING HILLS COUNTRY CLUB"
+		}, {
+			"customerNumber": "40642",
+			"customerName": "RON'S DISCOUNT LUMBER CAFE"
+		}, {
+			"customerNumber": "902783",
+			"customerName": "ROSALIA'S FAMILY BAKERY"
+		}, {
+			"customerNumber": "922963",
+			"customerName": "ROUX'S CAJUN CREOLE"
+		}, {
+			"customerNumber": "209395",
+			"customerName": "RUMBA- REVOLUTION - LR"
+		}, {
+			"customerNumber": "187146",
+			"customerName": "RUSTIC INN RESTAURANT"
+		}, {
+			"customerNumber": "200170",
+			"customerName": "RUSTY'S & CAROL'S SPORTSMEN C"
+		}, {
+			"customerNumber": "64964",
+			"customerName": "SAINT MICHAEL'S PLACE INC"
+		}, {
+			"customerNumber": "337031",
+			"customerName": "SAKU SAKU HIBACHI ON WHEELS"
+		}, {
+			"customerNumber": "318576",
+			"customerName": "SAKURA BATESVILLE"
+		}, {
+			"customerNumber": "186940",
+			"customerName": "SAKURA RESTAURANT 10"
+		}, {
+			"customerNumber": "864538",
+			"customerName": "SALEM PLACE NURSING CENTER"
+		}, {
+			"customerNumber": "166058",
+			"customerName": "SALSA'S GRILL MTN HOME"
+		}, {
+			"customerNumber": "65763",
+			"customerName": "SALSA'S MEXICAN RESTAURANT"
+		}, {
+			"customerNumber": "56747",
+			"customerName": "SAN DIEGO MEXICAN RESTAURANT"
+		}, {
+			"customerNumber": "267369",
+			"customerName": "SANDY ACRES GROCERY"
+		}, {
+			"customerNumber": "305904",
+			"customerName": "SANTO COYOTE INC -NLR"
+		}, {
+			"customerNumber": "61846",
+			"customerName": "SANTO COYOTE MEXICAN FOOD & T"
+		}, {
+			"customerNumber": "71845",
+			"customerName": "SAVORY CATERING AND EVENT PLA"
+		}, {
+			"customerNumber": "108597",
+			"customerName": "SAWBUCK'S IV"
+		}, {
+			"customerNumber": "329276",
+			"customerName": "SAWBUCKS"
+		}, {
+			"customerNumber": "50815",
+			"customerName": "SAWBUCKS 2"
+		}, {
+			"customerNumber": "157248",
+			"customerName": "SAWBUCKS VI"
+		}, {
+			"customerNumber": "321273",
+			"customerName": "SAWBUCKS VII"
+		}, {
+			"customerNumber": "336487",
+			"customerName": "SCALLIONS"
+		}, {
+			"customerNumber": "867614",
+			"customerName": "SCOTTYS CONVENIENCE STORE"
+		}, {
+			"customerNumber": "244202",
+			"customerName": "SEARCY COUNTRY CLUB"
+		}, {
+			"customerNumber": "223214",
+			"customerName": "SEKISUI"
+		}, {
+			"customerNumber": "336933",
+			"customerName": "SENILE CROCODILE"
+		}, {
+			"customerNumber": "238451",
+			"customerName": "SENOR PICANTE MEXICAN REST"
+		}, {
+			"customerNumber": "245431",
+			"customerName": "SENOR TEQUILA - CANTRELL RD"
+		}, {
+			"customerNumber": "864918",
+			"customerName": "SENOR TEQUILA - NLR"
+		}, {
+			"customerNumber": "330480",
+			"customerName": "SENOR TEQUILA - SHERWOOD"
+		}, {
+			"customerNumber": "126979",
+			"customerName": "SENOR TEQUILA NO 3 - MAUMELLE"
+		}, {
+			"customerNumber": "126599",
+			"customerName": "SENOR TEQUILA NO 4 - BOWMAN"
+		}, {
+			"customerNumber": "183335",
+			"customerName": "SENOR TEQUILA NO8 CONWAY"
+		}, {
+			"customerNumber": "147785",
+			"customerName": "SENOR TEQUILA WEST"
+		}, {
+			"customerNumber": "157685",
+			"customerName": "SENOR TEQUILA-UNIVERSITY AVE"
+		}, {
+			"customerNumber": "337527",
+			"customerName": "SERGIO'S"
+		}, {
+			"customerNumber": "25684",
+			"customerName": "SHADOW VALLEY COUNTRY CLUB"
+		}, {
+			"customerNumber": "42218",
+			"customerName": "SHANNON'S"
+		}, {
+			"customerNumber": "253931",
+			"customerName": "SHARK BITES 7"
+		}, {
+			"customerNumber": "121368",
+			"customerName": "SHARKS 5 ON 12TH"
+		}, {
+			"customerNumber": "920355",
+			"customerName": "SHARKS FSH & CHKN JACKSONVILLE"
+		}, {
+			"customerNumber": "302398",
+			"customerName": "SHARKS III FISH & CHICKEN"
+		}, {
+			"customerNumber": "244681",
+			"customerName": "SHEBA'S FAMILY RESTAURANT"
+		}, {
+			"customerNumber": "921593",
+			"customerName": "SHELL SUPER STOP 144"
+		}, {
+			"customerNumber": "130559",
+			"customerName": "SHEP'S FARMHOUSE"
+		}, {
+			"customerNumber": "936153",
+			"customerName": "SHERIDAN DETENTION CENTER WFS"
+		}, {
+			"customerNumber": "22376",
+			"customerName": "SHILOH NURSING & REHAB LLC"
+		}, {
+			"customerNumber": "331751",
+			"customerName": "SHIPLEY DONUTS - NLR"
+		}, {
+			"customerNumber": "925693",
+			"customerName": "SIGNATURE BREADS"
+		}, {
+			"customerNumber": "287722",
+			"customerName": "SKIPPER'S RESTAURANT"
+		}, {
+			"customerNumber": "443432",
+			"customerName": "SKYLINE CAFE"
+		}, {
+			"customerNumber": "43281",
+			"customerName": "SLIM AND SHORTY'S"
+		}, {
+			"customerNumber": "102905",
+			"customerName": "SM DAYS INN LONOKE"
+		}, {
+			"customerNumber": "136739",
+			"customerName": "SM DOUBLETREE BY HILTON FT SM"
+		}, {
+			"customerNumber": "134338",
+			"customerName": "SM HAMPTON INN LONOKE"
+		}, {
+			"customerNumber": "73148",
+			"customerName": "SM HOLIDAY INN EXPRESS & SUIT"
+		}, {
+			"customerNumber": "93625",
+			"customerName": "SM SPRINGHILL SUITES"
+		}, {
+			"customerNumber": "327866",
+			"customerName": "SM- HAMPTON INN & STES- PINE"
+		}, {
+			"customerNumber": "221671",
+			"customerName": "SM- HAMPTON INN - ARKADELPHIA"
+		}, {
+			"customerNumber": "102723",
+			"customerName": "SM- HAMPTON INN - FAYETTEVILL"
+		}, {
+			"customerNumber": "121442",
+			"customerName": "SM- HAMPTON INN - FORT SMITH"
+		}, {
+			"customerNumber": "308478",
+			"customerName": "SM- HAMPTON INN - MONTICELLO"
+		}, {
+			"customerNumber": "956888",
+			"customerName": "SM- HAMPTON INN - ROGERS"
+		}, {
+			"customerNumber": "65441",
+			"customerName": "SM- HAMPTON INN AND SUITES"
+		}, {
+			"customerNumber": "269936",
+			"customerName": "SM- HAMPTON INN HARRISON"
+		}, {
+			"customerNumber": "76141",
+			"customerName": "SM- HAMPTON INN HOT SPRINGS"
+		}, {
+			"customerNumber": "95505",
+			"customerName": "SM- HAMPTON INN MAUMELLE"
+		}, {
+			"customerNumber": "42226",
+			"customerName": "SM- HOLIDAY INN EXPRESS LONOK"
+		}, {
+			"customerNumber": "158899",
+			"customerName": "SM- HOME 2 SUITES"
+		}, {
+			"customerNumber": "295170",
+			"customerName": "SM- HOMEWOOD SUITES"
+		}, {
+			"customerNumber": "293647",
+			"customerName": "SM- HOMEWOOD SUITES"
+		}, {
+			"customerNumber": "227397",
+			"customerName": "SM- HOMEWOOD SUITES"
+		}, {
+			"customerNumber": "104786",
+			"customerName": "SM-RESIDENCE INN - ROGERS"
+		}, {
+			"customerNumber": "292086",
+			"customerName": "SMOKEY HAVEN BBQ"
+		}, {
+			"customerNumber": "140715",
+			"customerName": "SMOKIN RICK'S HICKORY HOUSE"
+		}, {
+			"customerNumber": "319954",
+			"customerName": "SNIPPY'S CAFE LLC"
+		}, {
+			"customerNumber": "269894",
+			"customerName": "SODEXO - UALR STARBUCKS"
+		}, {
+			"customerNumber": "269191",
+			"customerName": "SODEXO UALR DIAMOND CAFE"
+		}, {
+			"customerNumber": "192377",
+			"customerName": "SONNY WILLIAMS STEAK ROOM NO"
+		}, {
+			"customerNumber": "319467",
+			"customerName": "SOULFISH CAFE"
+		}, {
+			"customerNumber": "903070",
+			"customerName": "SOUTH PARK RESTAURANT"
+		}, {
+			"customerNumber": "896522",
+			"customerName": "SOUTHERN BELLE RESTAURANT"
+		}, {
+			"customerNumber": "917096",
+			"customerName": "SOUTHERN HIBACHI EXPRESS"
+		}, {
+			"customerNumber": "922633",
+			"customerName": "SOUTHERN MAID DINER AND DONUT"
+		}, {
+			"customerNumber": "50989",
+			"customerName": "SPORTSMAN'S"
+		}, {
+			"customerNumber": "547802",
+			"customerName": "SPRINGDALE COUNTRY CLUB"
+		}, {
+			"customerNumber": "929083",
+			"customerName": "SPRINGDALE HEALTH & REHAB"
+		}, {
+			"customerNumber": "851824",
+			"customerName": "ST EDWARDS CAFETERIA"
+		}, {
+			"customerNumber": "159459",
+			"customerName": "ST EDWARDS MERCY AUXILLARY"
+		}, {
+			"customerNumber": "25353",
+			"customerName": "ST EDWARDS MERCY MEDICAL"
+		}, {
+			"customerNumber": "851816",
+			"customerName": "ST EDWARDS MERCY STOCK"
+		}, {
+			"customerNumber": "72991",
+			"customerName": "ST JOHNS HOSPITAL-BERRYVIL"
+		}, {
+			"customerNumber": "250662",
+			"customerName": "ST JOHNS PLACE -FORDYCE"
+		}, {
+			"customerNumber": "275172",
+			"customerName": "ST MARY'S REGIONAL 7352E"
+		}, {
+			"customerNumber": "925677",
+			"customerName": "ST MATTHEW FULL GOSPEL BAPTIST"
+		}, {
+			"customerNumber": "306696",
+			"customerName": "ST VINCENT MED NO 0011019001"
+		}, {
+			"customerNumber": "306670",
+			"customerName": "ST VINCENT NORTH NO 001101900"
+		}, {
+			"customerNumber": "923417",
+			"customerName": "STAYBRIDGE SUITES"
+		}, {
+			"customerNumber": "907816",
+			"customerName": "STEFFEY'S PIZZA"
+		}, {
+			"customerNumber": "272856",
+			"customerName": "STELLA MANOR NURSING"
+		}, {
+			"customerNumber": "336677",
+			"customerName": "STEVE'S SNACK SHACK"
+		}, {
+			"customerNumber": "41731",
+			"customerName": "STICKY FINGERZ"
+		}, {
+			"customerNumber": "262659",
+			"customerName": "STOBY'S"
+		}, {
+			"customerNumber": "272906",
+			"customerName": "STOBY'S RUSSELLVILLE"
+		}, {
+			"customerNumber": "207373",
+			"customerName": "SUBIACO ACADEMY"
+		}, {
+			"customerNumber": "337584",
+			"customerName": "SUMAC MART"
+		}, {
+			"customerNumber": "135285",
+			"customerName": "SUMO"
+		}, {
+			"customerNumber": "289405",
+			"customerName": "SUNSHINE STORE"
+		}, {
+			"customerNumber": "242164",
+			"customerName": "SUPER STOP NO 350 -NLR"
+		}, {
+			"customerNumber": "217943",
+			"customerName": "SUPERSTOP 161"
+		}, {
+			"customerNumber": "85084",
+			"customerName": "SWAIN'S"
+		}, {
+			"customerNumber": "319632",
+			"customerName": "SWEET BOUTIQUE"
+		}, {
+			"customerNumber": "140855",
+			"customerName": "T&K CONVENIENCE"
+		}, {
+			"customerNumber": "263327",
+			"customerName": "T-MART - HOPE"
+		}, {
+			"customerNumber": "95455",
+			"customerName": "T-MODELS PIT STOP"
+		}, {
+			"customerNumber": "232058",
+			"customerName": "TAB'S"
+		}, {
+			"customerNumber": "336586",
+			"customerName": "TAJ MAHAL"
+		}, {
+			"customerNumber": "910885",
+			"customerName": "TAMPA BAY FISHERIES"
+		}, {
+			"customerNumber": "294876",
+			"customerName": "TARASCOS RESTAURANT"
+		}, {
+			"customerNumber": "43554",
+			"customerName": "TAVERN SPORTS GRILL"
+		}, {
+			"customerNumber": "102475",
+			"customerName": "TEMPLE BAPTIST CHURCH"
+		}, {
+			"customerNumber": "889907",
+			"customerName": "THAT LITTLE PIZZA PLACE"
+		}, {
+			"customerNumber": "228684",
+			"customerName": "THC 00002 UAPB STUDENT CENTER"
+		}, {
+			"customerNumber": "274753",
+			"customerName": "THE ATRIUM AT SERENITY POINTE"
+		}, {
+			"customerNumber": "120204",
+			"customerName": "THE BACKYARD BBQ CO"
+		}, {
+			"customerNumber": "161091",
+			"customerName": "THE BIG DIPPER"
+		}, {
+			"customerNumber": "866541",
+			"customerName": "THE BLACK CAT CAFE"
+		}, {
+			"customerNumber": "63792",
+			"customerName": "THE BRANDING IRON"
+		}, {
+			"customerNumber": "186254",
+			"customerName": "THE COPPER POT 09"
+		}, {
+			"customerNumber": "50526",
+			"customerName": "THE CORNER LLC"
+		}, {
+			"customerNumber": "82792",
+			"customerName": "THE COUNTRY STORE NO 1"
+		}, {
+			"customerNumber": "192476",
+			"customerName": "THE DINER"
+		}, {
+			"customerNumber": "916486",
+			"customerName": "THE DIVE"
+		}, {
+			"customerNumber": "63826",
+			"customerName": "THE FISH HOUSE"
+		}, {
+			"customerNumber": "100008",
+			"customerName": "THE HOG HAUS BREWING CO."
+		}, {
+			"customerNumber": "22855",
+			"customerName": "THE HOOK"
+		}, {
+			"customerNumber": "251141",
+			"customerName": "THE MEAT SHOP INC"
+		}, {
+			"customerNumber": "39776",
+			"customerName": "THE OAKS AT MENA LLC"
+		}, {
+			"customerNumber": "289017",
+			"customerName": "THE OYSTER BAR"
+		}, {
+			"customerNumber": "84459",
+			"customerName": "THE RED DOOR"
+		}, {
+			"customerNumber": "153742",
+			"customerName": "THE SMOKEHOUSE"
+		}, {
+			"customerNumber": "218735",
+			"customerName": "THE SOCIAL TACO"
+		}, {
+			"customerNumber": "107169",
+			"customerName": "THE SONFLOUR"
+		}, {
+			"customerNumber": "454504",
+			"customerName": "THE TERRACE MEDITERRANEAN KIT"
+		}, {
+			"customerNumber": "444422",
+			"customerName": "THE WHITE HOUSE"
+		}, {
+			"customerNumber": "288423",
+			"customerName": "THE ZOO ANIMAL FEEDER"
+		}, {
+			"customerNumber": "322735",
+			"customerName": "TIMBERLANE MEAT MARKET"
+		}, {
+			"customerNumber": "140897",
+			"customerName": "TIO'S MEXICAN GRILL"
+		}, {
+			"customerNumber": "94615",
+			"customerName": "TJ'S C-STORE"
+		}, {
+			"customerNumber": "130195",
+			"customerName": "TOMMY'S FAMOUS PIZZA & BBQ"
+		}, {
+			"customerNumber": "238527",
+			"customerName": "TRES AGAVES MEXICAN REST NO 2"
+		}, {
+			"customerNumber": "143271",
+			"customerName": "TRI OAKS"
+		}, {
+			"customerNumber": "275016",
+			"customerName": "TRINITY VILLAGE MEDICAL CENTE"
+		}, {
+			"customerNumber": "267435",
+			"customerName": "TRINITY VILLAGE RETIREMENT LD"
+		}, {
+			"customerNumber": "188474",
+			"customerName": "TRIPLE S CHRISTIAN RANCH"
+		}, {
+			"customerNumber": "112888",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 002"
+		}, {
+			"customerNumber": "252577",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 003"
+		}, {
+			"customerNumber": "223081",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 005"
+		}, {
+			"customerNumber": "59741",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 006"
+		}, {
+			"customerNumber": "96008",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 012"
+		}, {
+			"customerNumber": "293878",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 013"
+		}, {
+			"customerNumber": "59089",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 014"
+		}, {
+			"customerNumber": "253328",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 015"
+		}, {
+			"customerNumber": "54056",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 016"
+		}, {
+			"customerNumber": "919530",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 017"
+		}, {
+			"customerNumber": "40634",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 018"
+		}, {
+			"customerNumber": "74211",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 021"
+		}, {
+			"customerNumber": "62489",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 022"
+		}, {
+			"customerNumber": "260695",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 024"
+		}, {
+			"customerNumber": "192518",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 025"
+		}, {
+			"customerNumber": "175877",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 026"
+		}, {
+			"customerNumber": "148429",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 027"
+		}, {
+			"customerNumber": "119925",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 028"
+		}, {
+			"customerNumber": "125831",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 029"
+		}, {
+			"customerNumber": "298372",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 030"
+		}, {
+			"customerNumber": "337725",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 031"
+		}, {
+			"customerNumber": "319483",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR 034"
+		}, {
+			"customerNumber": "922138",
+			"customerName": "TROPICAL SMOOTHIE CAFE AR32"
+		}, {
+			"customerNumber": "916981",
+			"customerName": "TWIN CITY BROKERS"
+		}, {
+			"customerNumber": "130799",
+			"customerName": "TWIN PEAKS - ROGERS"
+		}, {
+			"customerNumber": "337411",
+			"customerName": "TWO GUYS HIBACHI EXPRESS"
+		}, {
+			"customerNumber": "279737",
+			"customerName": "TWO SISTER'S COUNTRY CLUB"
+		}, {
+			"customerNumber": "47415",
+			"customerName": "TYSON- NASHVILLE"
+		}, {
+			"customerNumber": "60228",
+			"customerName": "UALR TROJAN GRILL NO 10058007"
+		}, {
+			"customerNumber": "62471",
+			"customerName": "UNCLE HENRYS BBQ"
+		}, {
+			"customerNumber": "902767",
+			"customerName": "UNCLE T'S DELI"
+		}, {
+			"customerNumber": "273185",
+			"customerName": "UNIVERSITY FOOD MART"
+		}, {
+			"customerNumber": "143396",
+			"customerName": "US PIZZA CO - MAUMELLE"
+		}, {
+			"customerNumber": "144204",
+			"customerName": "US PIZZA CO BATESVILLE"
+		}, {
+			"customerNumber": "145896",
+			"customerName": "US PIZZA CO CABOT"
+		}, {
+			"customerNumber": "145938",
+			"customerName": "US PIZZA CO CONWAY"
+		}, {
+			"customerNumber": "143784",
+			"customerName": "US PIZZA CO FAIRPARK"
+		}, {
+			"customerNumber": "143768",
+			"customerName": "US PIZZA CO FAYETTEVILLE"
+		}, {
+			"customerNumber": "143552",
+			"customerName": "US PIZZA CO HEIGHTS"
+		}, {
+			"customerNumber": "142711",
+			"customerName": "US PIZZA CO HILLCREST"
+		}, {
+			"customerNumber": "143479",
+			"customerName": "US PIZZA CO LEVY"
+		}, {
+			"customerNumber": "143222",
+			"customerName": "US PIZZA CO MCCAIN"
+		}, {
+			"customerNumber": "143065",
+			"customerName": "US PIZZA CO RODNEY PARHAM"
+		}, {
+			"customerNumber": "142968",
+			"customerName": "US PIZZA CO SHERWOOD"
+		}, {
+			"customerNumber": "143801",
+			"customerName": "US PIZZA CO SPRINGHILL"
+		}, {
+			"customerNumber": "982066",
+			"customerName": "VALLEY 6550 AAA OF SE ARKANSA"
+		}, {
+			"customerNumber": "280867",
+			"customerName": "VALLEY BAPTIST CHURCH"
+		}, {
+			"customerNumber": "78519",
+			"customerName": "VALLEY BEHAVIORAL HEALTH SYST"
+		}, {
+			"customerNumber": "309534",
+			"customerName": "VALLEY RANCH NURSING & REHAB"
+		}, {
+			"customerNumber": "925016",
+			"customerName": "VAN BUREN CO AGING - FF BAY"
+		}, {
+			"customerNumber": "432799",
+			"customerName": "VINO'S"
+		}, {
+			"customerNumber": "67298",
+			"customerName": "WALMART VISITORS CENTER"
+		}, {
+			"customerNumber": "275180",
+			"customerName": "WALNUT GROVE NURSING & REHAB"
+		}, {
+			"customerNumber": "180075",
+			"customerName": "WALNUT LAKE COUNTRY CLUB"
+		}, {
+			"customerNumber": "887430",
+			"customerName": "WAREHOUSE WILLY'S"
+		}, {
+			"customerNumber": "911073",
+			"customerName": "WAYPOINTE"
+		}, {
+			"customerNumber": "873042",
+			"customerName": "WEAVER MEAT PROCESSING"
+		}, {
+			"customerNumber": "69385",
+			"customerName": "WEST END SMOKEHOUSE TAVERN"
+		}, {
+			"customerNumber": "86918",
+			"customerName": "WESTERN SIZZLIN-BENTON"
+		}, {
+			"customerNumber": "245415",
+			"customerName": "WESTERN SIZZLIN-SEARCY"
+		}, {
+			"customerNumber": "337998",
+			"customerName": "WHATS FOR DINNER"
+		}, {
+			"customerNumber": "100867",
+			"customerName": "WHICH WICH CHENAL 405"
+		}, {
+			"customerNumber": "73338",
+			"customerName": "WHICH WICH NLR 304"
+		}, {
+			"customerNumber": "60962",
+			"customerName": "WHICH WICH OF NWA LLC 246"
+		}, {
+			"customerNumber": "104571",
+			"customerName": "WHITE HALL RECREATION COMPLEX"
+		}, {
+			"customerNumber": "891150",
+			"customerName": "WHITE HOUSE CAFE"
+		}, {
+			"customerNumber": "301226",
+			"customerName": "WHITE RIVER DAIRY BAR"
+		}, {
+			"customerNumber": "893917",
+			"customerName": "WHO DAT'S"
+		}, {
+			"customerNumber": "898999",
+			"customerName": "WISTER DAIRY HUT LLC"
+		}, {
+			"customerNumber": "161257",
+			"customerName": "WOODLAND HEIGHTS"
+		}, {
+			"customerNumber": "93989",
+			"customerName": "WOODLAND HILLS REHAB-JACKS"
+		}, {
+			"customerNumber": "74096",
+			"customerName": "WOODLAWN SCHOOLS EMP"
+		}, {
+			"customerNumber": "144147",
+			"customerName": "WRIGHT'S RANCH HOUSE II"
+		}, {
+			"customerNumber": "60459",
+			"customerName": "WRIGHT'S RESTAURANT"
+		}, {
+			"customerNumber": "255000",
+			"customerName": "WYATTS RESTAURANT"
+		}, {
+			"customerNumber": "53678",
+			"customerName": "WYNDHAM BENIHANA"
+		}, {
+			"customerNumber": "412957",
+			"customerName": "WYNDHAM RIVERFRONT L.R"
+		}, {
+			"customerNumber": "53686",
+			"customerName": "WYNDHAM RIVERFRONT STEAK H"
+		}, {
+			"customerNumber": "190462",
+			"customerName": "YIELD MINISTRY INC"
+		}, {
+			"customerNumber": "220772",
+			"customerName": "YUMMY HIBACHI"
+		}, {
+			"customerNumber": "84103",
+			"customerName": "ZAZA"
+		}, {
+			"customerNumber": "83873",
+			"customerName": "ZAZA INC"
+		}, {
+			"customerNumber": "172999",
+			"customerName": "ZOES KITCHEN COLLEGE MARKETPL"
+		}, {
+			"customerNumber": "184754",
+			"customerName": "ZOES KITCHEN LITTLE ROCK 280"
+		}, {
+			"customerNumber": "220831",
+			"customerName": "ZOES KITCHEN PARK PLAZA"
+		}, {
+			"customerNumber": "917781",
+			"customerName": "ZUKI HIBACHI EXPRESS"
+		}],
+		"OPCO_COMMENT": null,
+		"opco_type": null
+	},
+	"errorCode": null,
+	"errorMessage": null,
+	"errorStack": null,
+	"showPerf": false,
+	"result": false,
+	"opcoId": null
+}

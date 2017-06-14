@@ -1,0 +1,88 @@
+.editTableDiv{
+    padding: 10px;
+}
+.autoWidth{
+    width: auto !important;
+}
+.mb0{
+    margin-bottom: 0px !important;
+}
+.inputStyle{
+    padding: 3px 6px !important;
+    height: inherit !important;
+    width: 60%;
+}
+.commentSection{
+    width: 80%;
+}
+.testOverflw{
+     overflow: inherit !important;
+}
+.pt20{
+    padding-top: 20px;
+}
+.pt10{
+    padding-top: 10px;
+}
+.pt5{
+    padding-top: 5px;
+}
+.editRouteLinks{
+    padding: 15px 0px 0px 0px;
+    text-decoration: underline;
+}
+.noMargin{
+    margin: 0px !important;
+}
+.noPadding{
+    padding: 0px !important;
+}
+.editButns{
+    padding: 5px 25px;
+    margin-left: 15px !important;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.deleteButn{
+    color: #999;
+    background-color: #ddd;
+}
+.greybutn{
+    background-color: #999;
+}
+.resetButn{
+    background-color: #555;
+}
+.editRouteDiv > hr{
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+}
+.editRouteDiv{
+    padding-bottom: 5px;
+}
+.dispBlk{
+    display: block;
+}
+.modalAlign{
+    /*position: fixed;*/
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    transform: translate(-50%, -50%);
+    /*transform: -webkit-translate(-50%, -50%);
+    transform: -moz-translate(-50%, -50%);
+    transform: -ms-translate(-50%, -50%);*/
+    /*outline: 0;*/
+}
+.modalTitle{
+    font-size: 14px
+}
+.opcoComment{
+    height: 200px !important;
+}
+.divBtns{
+    margin: 0 auto;
+    text-align: center
+}

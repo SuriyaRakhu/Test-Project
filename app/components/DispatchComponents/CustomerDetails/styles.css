@@ -1,0 +1,73 @@
+.rowBorder{
+    border-top: 1px solid #c5c5c5;
+    background-color: #fff !important;
+    border-bottom: 1px solid #c5c5c5;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.ring{
+    width: 50%;
+    margin:0 auto;
+}
+.ring div{
+    border: 3px dashed orange;
+    border-radius: 50%;
+    width: 100px;
+	height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: orange;
+}
+.textCenter{
+    padding-left: 10%;
+}
+.routeNo{
+    font-size: 100px;
+}
+.title{
+    padding-top: 5%;
+}
+.date{
+    float: right;
+    margin-right: 10px;
+}
+.timesRow{
+   margin: 20px 0px 20px 0px;
+
+}
+.timesCol{
+    padding: 10px;
+}
+.timesCol div{
+    border: 1px solid #c5c5c5;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.timesCol div h4{
+    text-align: center;
+}
+.secondRow{
+    border: 1px solid #c5c5c5;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #fff;
+    margin-bottom: 30px;
+    height: 200px;
+}
+.secondRow h4{
+    text-align: center;
+}
+
+.deliveryWindow div{
+    display: inline-block;
+    width: 50%;
+    text-align: center
+}

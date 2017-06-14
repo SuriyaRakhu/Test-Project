@@ -1,0 +1,61 @@
+.summary{
+    height: 200px !important
+}
+
+.tab li{
+    width: 50%;
+}
+
+.tabTitle{
+    float: right;
+    padding: 10px;
+    margin-right: 55%;
+}
+
+.sec1{
+    width: 20%;
+    float: left;
+    height: 100px;
+    background-color: #c5c5c5;
+    padding:20px;
+    display: table;
+}
+
+
+
+.sec2{
+    width: 60%;
+    display: inline-block;
+    height: 100px;
+    padding: 10px 0px 10px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #e0d9d9;
+}
+.sec3{
+    width: 20%;
+    display: inline-block;
+    float: right;
+    height: 100px;
+    display: table;
+    background-color: #fff;
+    border-bottom: 1px solid #e0d9d9;
+}
+
+.sec1 div, .sec3 div{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.chevron{
+    float: right;
+    color: #a09c9c; 
+}
+
+.centerIcon{
+    position: relative;
+    left: 100%;
+}
+
+.timeFix{
+    width: 45px;
+}

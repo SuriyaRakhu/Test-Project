@@ -1,0 +1,472 @@
+{
+	"route": {
+		"organization": {
+			"opcoId": 44,
+			"opcoName": "Vancouver",
+			"opcoAddress": "1346 Kingsway Avenue",
+			"opcoLatitude": "4924781",
+			"timezone": "America/Los_Angeles",
+			"opcoLongitude": "-12275096",
+			"routeList": {
+				"routes": [{
+					"routeId": "1049",
+					"stops": {
+						"wsStops": [{
+								"stopNum": 1,
+								"tripId": "1100441049",
+								"customerList": {
+									"customers": [{
+										"custNumber": "19775",
+										"custName": "                   K F C #1840",
+										"deliveryDay": "000",
+										"zipcode": "V4C 6R4",
+										"country": null,
+										"state": "BC",
+										"city": "DELTA",
+										"addressLine1": "8737  120 STREET / 101",
+										"addressLine2": "",
+										"addressLine3": "",
+										"addressLine4": "",
+										"custTelephone": "7785785062",
+										"contactPerson": "",
+										"latitude": "40.768211",
+										"longitude": "-73.971804",
+										"orderList": {
+											"orders": [{
+												"orderNumber": "7389626",
+												"roadnetOrderStsCode": null,
+												"deliveryDate": "20160516",
+												"shipOrPickUpDate": null,
+												"orderStatus": "D",
+												"deliveryMethodCode": "N",
+												"manifestNumber": null,
+												"routeNumber": null,
+												"stopNumber": null,
+												"offDayDelivery": "N",
+												"invoiceNumber": "9120885",
+												"remoteOrdEntryMode": null,
+												"itemQty": "49",
+												"purchaseOrderNo": null,
+												"routeToNumber": null,
+												"immediateOrderFlag": "N",
+												"totalCube": null,
+												"totalWeight": null,
+												"delivery": {
+													"delWindow1To": " 09:00",
+													"delWindow1From": " 00:01",
+													"delWindow2To": "174500",
+													"delWindow2From": "143000",
+													"variance": "49",
+													"plannedArrvTime": "2016-05-16T05:57:00",
+													"plannedDeptTime": "2016-05-16T06:45:00",
+													"actualArrvTime": "2016-05-16 06:47:24.0",
+													"actualDeptTime": null,
+													"driverName": "Gruyaert,Travis(802415)",
+													"truckLatitude": "49162663",
+													"truckLongitude": "-122859193",
+													"projectedArrivalFrom": "2016-05-16T06:30:00",
+													"projectedArrivalTo": "2016-05-16T08:30:00"
+												},
+												"invoiceItemList": null
+											}]
+										}
+									}]
+								}
+							},
+							{
+								"stopNum": 2,
+								"tripId": "1100441049",
+								"customerList": {
+									"customers": [{
+										"custNumber": "14741",
+										"custName": "              PIZZA HUT #31137",
+										"deliveryDay": "000",
+										"zipcode": "V7C 5V2",
+										"country": null,
+										"state": "BC",
+										"city": "RICHMOND",
+										"addressLine1": "3675 WESTMINSTER WAY /120",
+										"addressLine2": "",
+										"addressLine3": "",
+										"addressLine4": "",
+										"custTelephone": "6042079767",
+										"contactPerson": "",
+										"latitude": "40.769084",
+										"longitude": "-73.977356",
+										"orderList": {
+											"orders": [{
+												"orderNumber": "7386235",
+												"roadnetOrderStsCode": null,
+												"deliveryDate": "20160516",
+												"shipOrPickUpDate": null,
+												"orderStatus": "R",
+												"deliveryMethodCode": "N",
+												"manifestNumber": null,
+												"routeNumber": null,
+												"stopNumber": null,
+												"offDayDelivery": "N",
+												"invoiceNumber": "9120886",
+												"remoteOrdEntryMode": null,
+												"itemQty": "58",
+												"purchaseOrderNo": null,
+												"routeToNumber": null,
+												"immediateOrderFlag": "N",
+												"totalCube": null,
+												"totalWeight": null,
+												"delivery": {
+													"delWindow1To": " 07:00",
+													"delWindow1From": " 00:01",
+													"delWindow2To": "174500",
+													"delWindow2From": "143000",
+													"variance": "48",
+													"plannedArrvTime": "2016-05-16T07:31:00",
+													"plannedDeptTime": "2016-05-16T08:38:00",
+													"actualArrvTime": null,
+													"actualDeptTime": null,
+													"driverName": "Gruyaert,Travis(802415)",
+													"truckLatitude": "49162663",
+													"truckLongitude": "-122859193",
+													"projectedArrivalFrom": "2016-05-16T08:00:00",
+													"projectedArrivalTo": "2016-05-16T10:00:00"
+												},
+												"invoiceItemList": null
+											}]
+										}
+									}]
+								}
+							},
+							{
+								"stopNum": 3,
+								"tripId": "1100441049",
+								"customerList": {
+									"customers": [{
+										"custNumber": "11485",
+										"custName": "               WHITE SPOT #605",
+										"deliveryDay": "000",
+										"zipcode": "V6Y 2B7",
+										"country": null,
+										"state": "BC",
+										"city": "RICHMOND",
+										"addressLine1": "6551 NO. 3 RD / 1902",
+										"addressLine2": "",
+										"addressLine3": "",
+										"addressLine4": "",
+										"custTelephone": "6042783911",
+										"contactPerson": "",
+										"latitude": "40.758040",
+										"longitude": "-74.001021",
+										"orderList": {
+											"orders": [{
+													"orderNumber": "7368627",
+													"roadnetOrderStsCode": null,
+													"deliveryDate": "20160516",
+													"shipOrPickUpDate": null,
+													"orderStatus": "R",
+													"deliveryMethodCode": "N",
+													"manifestNumber": null,
+													"routeNumber": null,
+													"stopNumber": null,
+													"offDayDelivery": "N",
+													"invoiceNumber": "9120888",
+													"remoteOrdEntryMode": null,
+													"itemQty": "140",
+													"purchaseOrderNo": null,
+													"routeToNumber": null,
+													"immediateOrderFlag": "N",
+													"totalCube": null,
+													"totalWeight": null,
+													"delivery": {
+														"delWindow1To": " 07:30",
+														"delWindow1From": " 02:00",
+														"delWindow2To": "174500",
+														"delWindow2From": "143000",
+														"variance": "48",
+														"plannedArrvTime": "2016-05-16T08:48:00",
+														"plannedDeptTime": "2016-05-16T10:01:00",
+														"actualArrvTime": null,
+														"actualDeptTime": null,
+														"driverName": "Gruyaert,Travis(802415)",
+														"truckLatitude": "49162663",
+														"truckLongitude": "-122859193",
+														"projectedArrivalFrom": "2016-05-16T09:00:00",
+														"projectedArrivalTo": "2016-05-16T11:00:00"
+													},
+													"invoiceItemList": null
+												},
+												{
+													"orderNumber": "7390001",
+													"roadnetOrderStsCode": null,
+													"deliveryDate": "20160516",
+													"shipOrPickUpDate": null,
+													"orderStatus": "R",
+													"deliveryMethodCode": "N",
+													"manifestNumber": null,
+													"routeNumber": null,
+													"stopNumber": null,
+													"offDayDelivery": "N",
+													"invoiceNumber": "9120887",
+													"remoteOrdEntryMode": null,
+													"itemQty": "16",
+													"purchaseOrderNo": null,
+													"routeToNumber": null,
+													"immediateOrderFlag": "N",
+													"totalCube": null,
+													"totalWeight": null,
+													"delivery": {
+														"delWindow1To": " 07:30",
+														"delWindow1From": " 02:00",
+														"delWindow2To": "174500",
+														"delWindow2From": "143000",
+														"variance": "48",
+														"plannedArrvTime": "2016-05-16T08:48:00",
+														"plannedDeptTime": "2016-05-16T10:01:00",
+														"actualArrvTime": null,
+														"actualDeptTime": null,
+														"driverName": "Gruyaert,Travis(802415)",
+														"truckLatitude": "49162663",
+														"truckLongitude": "-122859193",
+														"projectedArrivalFrom": "2016-05-16T09:00:00",
+														"projectedArrivalTo": "2016-05-16T11:00:00"
+													},
+													"invoiceItemList": null
+												}
+											]
+										}
+									}]
+								}
+							},
+							{
+								"stopNum": 4,
+								"tripId": "1100441049",
+								"customerList": {
+									"customers": [{
+										"custNumber": "11405",
+										"custName": "               WHITE SPOT #139",
+										"deliveryDay": "000",
+										"zipcode": "V6X3K2",
+										"country": null,
+										"state": "BC",
+										"city": "RICHMOND",
+										"addressLine1": "5880 NO 3 RD",
+										"addressLine2": "",
+										"addressLine3": "",
+										"addressLine4": "",
+										"custTelephone": "6042731556",
+										"contactPerson": "",
+										"latitude": "40.737988",
+										"longitude": "-73.984295",
+										"orderList": {
+											"orders": [{
+													"orderNumber": "7379346",
+													"roadnetOrderStsCode": null,
+													"deliveryDate": "20160516",
+													"shipOrPickUpDate": null,
+													"orderStatus": "R",
+													"deliveryMethodCode": "N",
+													"manifestNumber": null,
+													"routeNumber": null,
+													"stopNumber": null,
+													"offDayDelivery": "N",
+													"invoiceNumber": "9120889",
+													"remoteOrdEntryMode": null,
+													"itemQty": "11",
+													"purchaseOrderNo": null,
+													"routeToNumber": null,
+													"immediateOrderFlag": "N",
+													"totalCube": null,
+													"totalWeight": null,
+													"delivery": {
+														"delWindow1To": " 06:00",
+														"delWindow1From": " 04:00",
+														"delWindow2To": "174500",
+														"delWindow2From": "143000",
+														"variance": "48",
+														"plannedArrvTime": "2016-05-16T10:05:00",
+														"plannedDeptTime": "2016-05-16T10:55:00",
+														"actualArrvTime": null,
+														"actualDeptTime": null,
+														"driverName": "Gruyaert,Travis(802415)",
+														"truckLatitude": "49162663",
+														"truckLongitude": "-122859193",
+														"projectedArrivalFrom": "2016-05-16T10:30:00",
+														"projectedArrivalTo": "2016-05-16T12:30:00"
+													},
+													"invoiceItemList": null
+												},
+												{
+													"orderNumber": "7389857",
+													"roadnetOrderStsCode": null,
+													"deliveryDate": "20160516",
+													"shipOrPickUpDate": null,
+													"orderStatus": "R",
+													"deliveryMethodCode": "N",
+													"manifestNumber": null,
+													"routeNumber": null,
+													"stopNumber": null,
+													"offDayDelivery": "N",
+													"invoiceNumber": "9120890",
+													"remoteOrdEntryMode": null,
+													"itemQty": "99",
+													"purchaseOrderNo": null,
+													"routeToNumber": null,
+													"immediateOrderFlag": "N",
+													"totalCube": null,
+													"totalWeight": null,
+													"delivery": {
+														"delWindow1To": " 06:00",
+														"delWindow1From": " 04:00",
+														"delWindow2To": "174500",
+														"delWindow2From": "143000",
+														"variance": "48",
+														"plannedArrvTime": "2016-05-16T10:05:00",
+														"plannedDeptTime": "2016-05-16T10:55:00",
+														"actualArrvTime": null,
+														"actualDeptTime": null,
+														"driverName": "Gruyaert,Travis(802415)",
+														"truckLatitude": "49162663",
+														"truckLongitude": "-122859193",
+														"projectedArrivalFrom": "2016-05-16T10:30:00",
+														"projectedArrivalTo": "2016-05-16T12:30:00"
+													},
+													"invoiceItemList": null
+												}
+											]
+										}
+									}]
+								}
+							},
+							{
+								"stopNum": 5,
+								"tripId": "1100441049",
+								"customerList": {
+									"customers": [{
+										"custNumber": "17919",
+										"custName": "              BOSTON PIZZA #72",
+										"deliveryDay": "000",
+										"zipcode": "V3M 1C4",
+										"country": null,
+										"state": "BC",
+										"city": "NEW WESTMINSTER",
+										"addressLine1": "1045 COLUMBIA ST.",
+										"addressLine2": "",
+										"addressLine3": "",
+										"addressLine4": "",
+										"custTelephone": "6045253340",
+										"contactPerson": "EFT",
+										"latitude": "40.770602",
+										"longitude": "-73.991583",
+										"orderList": {
+											"orders": [{
+												"orderNumber": "7389955",
+												"roadnetOrderStsCode": null,
+												"deliveryDate": "20160516",
+												"shipOrPickUpDate": null,
+												"orderStatus": "R",
+												"deliveryMethodCode": "N",
+												"manifestNumber": null,
+												"routeNumber": null,
+												"stopNumber": null,
+												"offDayDelivery": "N",
+												"invoiceNumber": "9120891",
+												"remoteOrdEntryMode": null,
+												"itemQty": "148",
+												"purchaseOrderNo": null,
+												"routeToNumber": null,
+												"immediateOrderFlag": "N",
+												"totalCube": null,
+												"totalWeight": null,
+												"delivery": {
+													"delWindow1To": " 08:00",
+													"delWindow1From": " 02:00",
+													"delWindow2To": "174500",
+													"delWindow2From": "143000",
+													"variance": "48",
+													"plannedArrvTime": "2016-05-16T11:18:00",
+													"plannedDeptTime": "2016-05-16T12:28:00",
+													"actualArrvTime": null,
+													"actualDeptTime": null,
+													"driverName": "Gruyaert,Travis(802415)",
+													"truckLatitude": "49162663",
+													"truckLongitude": "-122859193",
+													"projectedArrivalFrom": "2016-05-16T11:30:00",
+													"projectedArrivalTo": "2016-05-16T13:30:00"
+												},
+												"invoiceItemList": null
+											}]
+										}
+									}]
+								}
+							},
+							{
+								"stopNum": 6,
+								"tripId": "1100441049",
+								"customerList": {
+									"customers": [{
+										"custNumber": "22756",
+										"custName": "            BURGER KING #06271",
+										"deliveryDay": "000",
+										"zipcode": "V3M 1C4",
+										"country": null,
+										"state": "BC",
+										"city": "NEW WESTMINSTER",
+										"addressLine1": "1035 COLUMBIA ST",
+										"addressLine2": "",
+										"addressLine3": "",
+										"addressLine4": "",
+										"custTelephone": "6045217080",
+										"contactPerson": "-EFT",
+										"latitude": "40.772922",
+										"longitude": "-73.958149",
+										"orderList": {
+											"orders": [{
+												"orderNumber": "7389558",
+												"roadnetOrderStsCode": null,
+												"deliveryDate": "20160516",
+												"shipOrPickUpDate": null,
+												"orderStatus": "R",
+												"deliveryMethodCode": "N",
+												"manifestNumber": null,
+												"routeNumber": null,
+												"stopNumber": null,
+												"offDayDelivery": "N",
+												"invoiceNumber": "9120892",
+												"remoteOrdEntryMode": null,
+												"itemQty": "84",
+												"purchaseOrderNo": null,
+												"routeToNumber": null,
+												"immediateOrderFlag": "N",
+												"totalCube": null,
+												"totalWeight": null,
+												"delivery": {
+													"delWindow1To": " 06:30",
+													"delWindow1From": " 00:01",
+													"delWindow2To": "000000",
+													"delWindow2From": "000000",
+													"variance": "48",
+													"plannedArrvTime": "2016-05-16T13:18:00",
+													"plannedDeptTime": "2016-05-16T14:27:00",
+													"actualArrvTime": null,
+													"actualDeptTime": null,
+													"driverName": "Gruyaert,Travis(802415)",
+													"truckLatitude": "49162663",
+													"truckLongitude": "-122859193",
+													"projectedArrivalFrom": "2016-05-16T13:30:00",
+													"projectedArrivalTo": "2016-05-16T15:30:00"
+												},
+												"invoiceItemList": null
+											}]
+										}
+									}]
+								}
+							}
+						]
+					},
+					"tripId": "1100441049",
+					"maximunArrivedStopNumber": 1,
+					"routeDelay": 48
+				}]
+			}
+		},
+		"message": null
+	}
+}

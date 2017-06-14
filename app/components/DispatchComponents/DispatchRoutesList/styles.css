@@ -1,0 +1,61 @@
+.delay{
+    float: right;
+    border: 1px solid #ea0505;
+    border-radius: 15px;
+    padding: 5px;
+    color: #ea0505;
+    margin-top: 15px;
+}
+
+.routeRow{
+    border-bottom: 2px solid #c5c5c5;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.routeRow2{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.leftCol{
+    padding-left: 0px !important;
+}
+
+.rightCol{
+    padding-right: 0px !important;
+}
+
+.routeCard{
+    /*padding: 5px;*/
+    max-width: 400px;
+}
+
+.routeSortCard{
+    background-color: #387fca;
+    border: 1px solid #387fca;
+}
+.routeSortCard button, .routeSortCard button:hover, .routeSortCard button:focus{
+     background-color: #387fca;
+     border-color: #387fca;
+     color: #fff;
+     padding: 1px;
+}
+.routeSortCard button span{
+    display: none;
+}
+.status span{
+    border-radius: 0px !important;
+}
+
+.icon{
+    padding-top: 10px;
+}
+
+.noBorder{
+    border-radius: 0px !important;
+}
+.sortButton{
+    float: right !important;
+}
+

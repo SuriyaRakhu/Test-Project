@@ -1,0 +1,8 @@
+.tab li{
+    width: 48%;
+}
+
+
+.tab__app-containers-NavigationContainer-styles__2BR1D .active{
+    border: 1px solid red;
+}

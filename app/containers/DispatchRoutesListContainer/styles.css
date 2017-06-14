@@ -1,0 +1,25 @@
+.headerPresent {
+  margin-top: 60px;
+  width: 97%;
+}
+.noPad {
+  padding: 0px;
+}
+.noMargin{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.gridStyle{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.padStyle{
+    padding: 0% 5% 5% 5%;
+}
+.tab li{
+    width: 50%;
+}
+.tabStyle{
+  box-shadow: 0 0 15px #939393;
+}

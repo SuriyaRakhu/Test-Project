@@ -1,0 +1,167 @@
+.routeContainer{
+	/*background-color: #008CD2 !important;	*/
+    color: #fff !important;
+    font-size: 12px;
+    font-family: Verdana !important;
+}
+.fullWidth{
+    width: 100% !important;
+}
+.pt10{
+    padding-top: 10px;
+}
+.pt2p{
+    padding-top: 2%;
+}
+.gridDisp{
+    display: grid !important;
+}
+.routeDetails > hr{
+    padding-top: 0px !important;
+}
+.totalRoutes{
+    padding-right: 0px !important;
+    padding-left: 0px !important; 
+}
+.routeCount{
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    font-size: 50px !important;
+    color: #008CD2 !important;
+}
+.boldText {
+    font-weight: bold;
+}
+.inlnblk{
+    display: inline-block;
+}
+.chartVal{
+    padding: 2%;
+}
+.dontWrap{
+    white-space: nowrap;
+}
+.noPad{
+    padding: 0px !important
+}
+.font12 {
+    font-size: 12px !important;
+}
+.font25{
+    font-size: 25px;
+}
+.stopsDetails{
+    padding: 20px 0px;
+}
+:root {
+    --progress-bg-color: #ddd;
+    --progress-high-color: #2ecc40;
+    --progress-medium-color: #FFC300;
+    --progress-low-color: #708090;
+
+}
+.greenColor{
+    stroke: var(--progress-high-color);
+}
+.orangeColor{
+    stroke: var(--progress-medium-color);
+}
+.greyColor{
+    stroke: var(--progress-low-color);
+}
+.greenText{
+    fill: var(--progress-high-color);
+}
+.orangeText{
+    fill: var(--progress-medium-color);
+}
+.greyText{
+    fill: darkgray;
+}
+.CircularProgress{
+    display: block;
+}
+.CircularProgressBg,
+.CircularProgressFg {
+    fill: none;
+    transition: stroke-dashoffset 0.25s ease;
+}
+
+.CircularProgressBg {
+    stroke: var(--progress-bg-color);
+}
+
+.CircularProgressFg {
+    /*transition: stroke-dashoffset 2s ease-in-out;
+    stroke: var(--progress-fg-color);*/
+    transform:rotate(-90deg);
+    transform-origin: center center;
+}
+
+.CircularProgressText {
+    font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+    font-size: 30px;
+    transform: translate(0 50%);
+}
+.svgContent { 
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.svgContainer { 
+	/*display: inline-block;*/
+	position: relative;
+	width: 100%;
+    margin-top: -10%;
+	padding-bottom: 100%; 
+	vertical-align: middle; 
+	overflow: hidden; 
+}
+svg {
+    top: 0;
+    left: 0;
+}
+.viewRouteBtn{
+    text-align:center;
+    margin:auto;
+}
+.viewRouteBtn > button {
+    padding: 6px 50px !important;
+}
+h3, h4{
+    margin: 0% !important;
+}
+.summaryTitle{
+    padding: 15px 0px;
+}
+button > i
+{
+    font-size: 20px;
+}
+.summaryTitle > button:hover{
+    background-color: transparent;
+    border-color: transparent;
+}
+.summaryTitle > button{
+    color: #fff;
+    background-color: transparent;
+    border-color: transparent;
+}
+.summaryTitle > div {
+    vertical-align: middle;
+}
+.opcoList{
+    padding-bottom: 15px;
+    float: right !important;
+    margin-bottom: 15px;
+}
+.opcoList .dropdown .dropdown-menu {
+    left: -25% !important;
+}
+.routeDetails{
+    color: darkgray;
+}
+.routePercent{
+    padding-left: 0px !important;
+    margin: 0 auto;
+}

@@ -1,0 +1,150 @@
+
+.align {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.container{
+    margin-top: 25%;
+}
+.widthFull{
+    width: 100%;
+}
+.card{
+    border-radius: 8px;
+    background: #fff;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12), 1px 1px 2px rgba(0, 0, 0, 0.24);
+
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 90%;
+}
+.heading{
+    font-family: 'Source Sans Pro', sans-serif;
+	color:white;
+	font-weight: 400;
+    text-align: center;
+    /*margin-top: 30%;*/
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.heading img{
+    width: 100px;
+}
+body{
+    background-image: url("../../assets/Sysco_LoginBackground_Tablet.png");
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    background-size: cover;  
+}
+.userName{
+    margin:5%;
+    padding-top:5%;
+}
+.password{
+    margin: 5%;
+}
+.buttonStyle{
+    margin-top: 7%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.loginButton{
+    background: #008cd2;
+    font-family: 'Source Sans Pro', sans-serif;
+	color:white;
+    width: 100%;
+}
+.message {
+  
+  color: #b3b3b3;
+  font-size: 12px;
+  text-align: center;
+}
+.message a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.cardHeader{
+    width: 100%;
+    background-color: #47bb47;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.cardTitle{
+    font-family: 'Source Sans Pro', sans-serif;
+	color:white;
+	font-weight: 400;
+    padding: 2%;
+}
+/*For iPhones*/
+@media only screen
+and (max-device-width : 768px) {
+    .container{
+        margin-top: 55%;
+    }
+    body{
+        background-position: center center;
+    }
+}
+/*For iPads*/
+@media only screen 
+and (min-device-width : 768px) 
+{ 
+    .card{
+        border-radius: 8px;
+        background: #fff;
+        box-sizing: border-box;
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12), 1px 1px 2px rgba(0, 0, 0, 0.24);
+
+        margin-left: 65%;
+        margin-right: 2%;
+        height: 90%;
+    }
+    .body{
+        background-image: url("../../assets/Sysco_LoginBackground_Mobile.png");
+    }
+    .container{
+    margin-top: 15%;
+    }
+    .heading{
+        font-family: 'Source Sans Pro', sans-serif;
+        color:white;
+        font-weight: 400;
+        text-align: center;
+        /*margin-top: 30%;*/
+        /*margin-left: 60%;*/
+        margin-right: 2%;
+    }    
+}
+/*@media screen 
+  and (min-device-width: 1200px){
+    .card{
+        border-radius: 2px;
+        background: #fff;
+        box-sizing: border-box;
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12), 1px 1px 2px rgba(0, 0, 0, 0.24);
+
+        margin-left: 30%;
+        margin-right: 30%;
+        height: 90%;
+    }
+    .heading{
+        margin-top: 55%;
+    }
+  }*/
