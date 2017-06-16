@@ -13,5 +13,3 @@ EXPOSE 3000
 
 CMD [ "npm", "run", "build.dll" ]
 CMD [ "npm", "start" ]
-
-echo 'Rebuild Test'
