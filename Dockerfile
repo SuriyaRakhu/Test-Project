@@ -11,5 +11,5 @@ RUN npm install
 
 EXPOSE 3000
 
-CMD [ "npm", "run", "build.dll" ]
+RUN npm run build:dll
 CMD [ "npm", "start" ]
